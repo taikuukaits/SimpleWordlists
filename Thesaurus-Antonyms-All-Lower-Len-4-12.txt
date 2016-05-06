@@ -1,0 +1,7073 @@
+Word|Antonym1,Antonym2,Antonym3,Antonym4
+a posteriori|a priori
+abactinal|actinal
+abaft|fore
+abaxial|adaxial
+abaxially|adaxially
+abbreviate|expand
+abducent|adducent
+abduct|adduct
+abducting|adducent
+abide by|disrespect
+abience|adience
+abient|adient
+ability|inability
+able|unable
+abnormal|normal
+abnormalcy|normality
+abnormality|normality
+abolish|establish
+aborad|orad
+aboral|oral
+aboriginal|nonnative
+above|below
+aboveboard|dishonestly
+abranchial|branchiate
+abranchiate|branchiate
+abranchious|branchiate
+abridge|expand
+abridged|unabridged
+abruptness|gradualness
+absence|presence
+absent|present
+absolute|relative
+absolve|blame
+absorb|emit
+absorbable|adsorbable
+absorbent|nonabsorbent
+absorptive|nonabsorbent
+abstain|consume
+abstainer|drinker
+abstemious|gluttonous
+abstinent|drinker
+abstract|concrete
+abstractly|concretely
+abstractness|concreteness
+abstruseness|clarity
+abundance|scarcity
+abundant|scarce
+abused|unabused
+acapnia|hypercapnia
+acarpellous|carpellate
+acarpelous|carpellate
+acatalectic|catalectic
+acaudal|caudate
+acaudate|caudate
+acaulescent|caulescent
+accede|dissent
+accelerate|decelerate
+accented|unstressed,atonic
+accentual|quantitative,syllabic
+accept|refuse,reject
+acceptably|intolerably,unacceptably
+acceptance|rejection
+acceptive|rejective
+accidentally|deliberately
+acclaim|boo
+acclivity|descent
+accommodate|disoblige
+accord|disagreement
+accordant|discordant
+accuracy|inaccuracy
+accurate|inaccurate
+accurately|inaccurately
+accustomed|unaccustomed
+acellular|cellular
+acetify|alkalize,sweeten
+achiever|loser
+achlamydeous|chlamydeous
+achondritic|chondritic
+achromatic|chromatic
+achromatinic|chromatinic
+achromatism|color
+acidic|alkaline,amphoteric
+acidify|alkalize,sweeten
+acidity|alkalinity
+acidulate|sweeten
+acknowledge|deny
+acquiesce|dissent
+acquire|lose
+acquit|convict
+acquittal|conviction
+acrocarp|pleurocarp
+acropetal|basipetal
+acroscopic|basiscopic
+actable|unactable
+actinal|abactinal
+action|inaction,inactiveness,inactivity
+activate|inactivate
+activation|deactivation,inactivation
+activator|inhibitor
+active|inactive,dormant,passive,quiet,extinct,stative
+actively|passively
+activeness|inaction,inactiveness,inactivity
+activity|inactivity,inaction,inactiveness
+actual sin|original sin
+actual|de jure,potential
+acute|obtuse,chronic
+acutely|chronically
+acuteness|obtuseness
+acyclic|cyclic
+adaptable|unadaptable
+adaptative|maladaptive
+adaptive|maladaptive
+adaxial|abaxial
+adaxially|abaxially
+add together|subtract
+addicted|unaddicted
+addictive|nonaddictive
+addition|subtraction
+additive|subtractive,nonlinear
+addressed|unaddressed
+adducent|abducent
+adduct|abduct
+adducting|abducent
+adductive|abducent
+adequacy|inadequacy,inadequacy
+adequate|inadequate
+adequateness|inadequacy
+adhesive|nonadhesive
+adiabatic|diabatic
+adience|abience
+adient|abient
+adjective|substantive
+adjust|skew
+adjusted|unadjusted,maladjusted
+admire|look down on
+admissible|inadmissible
+admit|deny,reject,exclude
+adnate|connate
+adoptable|unadoptable
+adopted|native
+adoptive|native,biological
+adorned|unadorned
+adroit|maladroit
+adroitly|maladroitly
+adscript|subscript,superscript
+adsorbable|absorbable
+adsorbate|absorbable
+adult female|man
+adult male|woman
+adult|juvenile
+adulterant|purifying
+adulterating|purifying
+advance|back,fall back,recede,regress,demote
+advancing|retreating
+advantage|penalty,disadvantage
+adversary|agonist
+advertently|unmindfully
+advisable|inadvisable
+advised|ill-advised
+advisedly|accidentally
+adynamic|dynamic
+aerobic|anaerobic
+aerophilic|anaerobic
+aerophilous|anaerobic
+aesthetic|inaesthetic
+aesthetical|inaesthetic
+aestivate|hibernate
+afebrile|febrile
+affected|unaffected,unmoved
+afferent|efferent
+affirm|negate
+affirmation|reversal
+affirmative|negative
+affirmatory|negative
+affixed|unaffixed
+afloat|aground,sunken
+afraid|unafraid
+aged|young
+aggrade|degrade
+aggravate|better
+agitate|calm
+agitated|unagitated
+agitation|calmness
+agnostic|gnostic
+agnostical|gnostic
+agonist|antagonist
+agree|disagree
+agreeably|disagreeably,unpleasantly
+aground|afloat,sunken
+ahead|back,backward
+ahistorical|historical
+aided|unassisted
+airworthy|unairworthy
+alarming|unalarming
+alas|fortunately,luckily
+alert|unalert
+alfresco|indoors,inside
+algorithmic|heuristic
+alien|citizen
+alienable|inalienable
+align|skew
+aligned|nonaligned
+alike|unalike
+alikeness|unlikeness
+aline|skew
+aliquant|aliquot
+aliquot part|aliquant
+aliquot|aliquant
+alive|unanimated,dead
+alkalic|acidic,amphoteric
+alkalify|acidify
+alkaline|acidic,amphoteric
+alkalinity|acidity
+alkalise|acidify
+alkalize|acidify
+allogamy|autogamy
+allogeneic|xenogeneic
+allopathic|homeopathic
+allopathy|homeopathy
+allopatric|sympatric
+allopatry|sympatry
+allow in|reject
+allow|deny,prevent,disallow,forbid
+ally|foe
+aloud|softly
+already|not yet
+also-ran|winner
+alterable|unalterable
+altered|unaltered
+alternate|opposite
+alternating|direct
+alto relievo|low relief
+alto rilievo|low relief
+altogether|partly
+altricial|precocial
+altruism|egoism
+altruistic|egoistic
+always|never
+amateur|professional
+amateurishly|expertly
+ambidextrous|left-handed,right-handed
+ambiguity|unambiguity
+ambiguous|unambiguous,unequivocal
+ambitionless|ambitious
+ambitious|unambitious
+ambiversion|extraversion,introversion
+ambiversive|extroversive,introversive
+ameliorate|worsen
+amend|worsen
+amended|unamended
+ametabolic|metabolic
+ametabolous|metabolic
+ametropic|emmetropic
+amiability|ill humor
+amicable|hostile
+amiss|perfectly
+amoral|immoral,moral
+amorally|morally
+amphibious|aquatic,terrestrial
+amphiprotic|acidic,alkaline
+amphitropous|anatropous
+amphoteric|acidic,alkaline
+ample|meager
+amplify|understate
+amply|meagerly
+amyotonia|tonicity
+anabatic|katabatic
+anabolic|catabolic
+anabolism|catabolism
+anaclinal|cataclinal
+anadromous|catadromous,diadromous
+anaerobic|aerobic
+anaerobiotic|aerobic
+anaesthetise|bring to
+anaesthetize|bring to
+anal|oral
+analog|digital
+analogous|heterologous,homologous
+analogue|digital
+analogy|apophatism,cataphatism
+analphabetic|alphabetic
+analyse|synthesize
+analysis|synthesis
+analytic|synthetic
+analytical|synthetic
+analyze|synthesize
+analyzed|unanalyzed
+anamorphism|katamorphism
+anaphrodisia|aphrodisia
+anapsid|diapsid
+anastalsis|peristalsis
+anastigmatic|astigmatic
+anathemise|bless
+anathemize|bless
+ancestor|descendant
+androgynous|female,male
+anesthetise|bring to
+anesthetize|bring to
+anestrous|estrous
+anestrum|estrus
+anestrus|estrus
+anglophilia|Anglophobia
+anglophobia|Anglophilia
+angry|unangry
+angular|rounded
+angularity|roundness
+angulate|rounded
+anhydrous|hydrous
+animal|mineral,vegetable
+animate|inanimate,insentient,deaden
+animated|unanimated
+anionic|cationic
+anisotropic|isotropic
+anisotropy|isotropy
+annual|biennial,perennial
+annul|validate
+anodal|cathodic
+anode|cathode
+anodic|cathodic
+anoestrum|estrus
+anoestrus|estrus
+anon.|onymous
+anonymous|onymous
+anorthic|monoclinic
+anovulation|ovulation
+answer|question
+antagonist|agonist,synergist
+antagonistic|synergistic
+antapex|apex
+ante up|default
+antecede|postdate
+antecedent|subsequent,descendant
+antedate|postdate
+antemortem|postmortem
+antenatal|perinatal,postnatal
+antenuptial|postnuptial
+antepartum|perinatal,postnatal
+anterior|posterior
+anteriority|posteriority
+anterograde|retrograde
+anticatalyst|catalyst
+anticlinal|synclinal
+anticyclone|cyclone
+antimagnetic|magnetic
+antinode|node
+antipyretic|pyretic
+antiseptic|septic
+antitype|type
+antonym|antonym,synonym
+antonymous|antonymous,synonymous
+antonymy|antonymy
+antrorse|retrorse
+apace|slowly
+aperiodic|periodic
+apetalous|petalous
+apex|antapex
+aphelion|perihelion
+aplacental|placental
+apoapsis|periapsis
+apocarpous|syncarpous
+apocrine|eccrine
+apogee|perigee
+apojove|perijove
+apolune|perilune,periselene
+apophatism|cataphatism
+aposelene|perilune,periselene
+apparel|undress
+appeal|repel
+appealing|unappealing
+appear|disappear,disappear
+appendaged|unappendaged
+appetising|unappetizing
+appetizing|unappetizing
+applied|theoretical
+apply|exempt,defy
+appointed|elective
+appointive|elective
+apposable|unopposable
+appositeness|inaptness
+appreciate|depreciate
+apprise|depreciate
+apprize|depreciate
+approbate|reprobate
+approval|disapproval
+approve|disapprove
+approved|disapproved
+approving|disapproval
+apropos|malapropos
+apteral|peripteral
+aptitude|inaptitude
+aptness|inaptness
+aquatic|amphibious,terrestrial
+aqueous|igneous
+arboreal|nonarboreal
+arboreous|nonarboreal
+argillaceous|arenaceous
+aright|incorrectly,wrongly
+arise|go to bed,turn in,lie down,sit down,fall
+armament|disarmament,disarming
+armed|armless,unarmed
+arming|disarmament,disarming
+armless|armed
+armored|unarmored
+armoured|unarmored
+arouse|de-energise,de-energize,sedate,fall asleep
+arrange|disarrange
+arranged|disarranged
+arrive|leave
+arrogate|forfeit
+artesian|subartesian
+artful|artless,ingenuous
+artfulness|artlessness
+articulately|ineloquently
+artificial|natural
+artificially|naturally
+artless|artful
+artlessness|artfulness
+ascend|descend,set
+ascendant|descendant
+ascendent|descendant
+ascending|descending
+ascension|fall
+ascent|descent,fall
+asexual|sexual
+ashamed|unashamed
+ashamedly|unashamedly
+asking|declarative,declaratory
+asleep|awake
+asperity|dullness
+assail|defend
+assemblage|disassembly
+assemble|disassemble
+assembly|disassembly
+assent|dissent
+assertive|unassertive
+asset|liability
+assigned|unassigned
+assimilate|dissimilate,dissimilate
+assisted|unassisted
+associate|dissociate
+assoil|convict
+assure|worry
+astern|fore
+astigmatic|anastigmatic
+astigmatism|stigmatism
+astigmia|stigmatism
+astomatous|stomatous
+asymmetric|symmetrical
+asymmetrical|symmetrical
+asymmetry|symmetry
+asynchronism|synchronism
+asynchronous|synchronous
+asynchrony|synchronism
+asyndetic|syndetic
+at best|at worst
+at least|at most,at the most
+at most|at least
+at the best|at worst
+at the least|at most,at the most
+at the most|at least,at the least
+at the worst|at best
+at worst|at best
+atheism|theism
+atomism|holism
+atomistic|holistic
+atomistical|holistic
+atonal|tonal
+atonalism|tonality
+atonality|tonality
+atonia|tonicity
+atonic|tonic
+atonicity|tonicity
+atony|tonicity
+atoxic|toxic
+attach|detach
+attachable|detachable
+attached|unattached,detached,vagile
+attack|defend
+attaint|honor
+attend to|neglect
+attend|miss
+attending|inattention
+attention|inattention
+attentive|inattentive,heedless
+attire|dress down
+attract|repel
+attraction|repulsion
+attractive|unattractive,repulsive
+attributive|predicative
+atypical|typical
+atypicality|typicality
+atypically|typically
+audibility|inaudibility
+audible|inaudible
+audibleness|inaudibility
+audibly|inaudibly
+augmentation|diminution
+aunt|uncle
+auntie|uncle
+aunty|uncle
+aurora|sunset
+autogamic|endogamous,exogamous
+autogamous|endogamous,exogamous
+autogamy|allogamy
+autologous|heterologous,homologous
+automatic|manual
+autumnal|summery,vernal,wintry
+available|unavailable
+avascular|vascular
+avenged|unavenged
+avertable|inevitable
+avertible|inevitable
+avirulent|virulent
+avoid|confront,validate
+avoidable|inevitable
+avoirdupois|leanness
+avouch|disavow
+avow|disavow
+awake|asleep,fall asleep
+awaken|fall asleep
+awakened|unawakened
+aware|unaware,unmindful,unwitting
+awareness|incognizance
+away game|home game
+away|home
+awed|unawed
+awestricken|unawed
+awestruck|unawed
+awful|nice
+awkward|graceful
+awkwardness|gracefulness
+awned|awnless
+awnless|awned
+awny|awnless
+azonal|zonal
+babble out|keep quiet
+babble|keep quiet
+back burner|front burner
+back end|front
+back up|unclog
+back|front,advance,veer,forward,ahead,forward
+backed|backless
+background|foreground,play up
+backhand|forehand
+backhanded|forehand
+backless|backed
+backside|front
+backward|forward,ahead,forward
+backwards|forward
+bad egg|good egg
+bad guy|good guy
+bad luck|good fortune,good luck
+bad person|good person
+badly|well,well
+badness|good,goodness
+balance|asymmetry,unbalance,imbalance
+balanced|unbalanced
+balconied|unbalconied
+balefulness|beneficence
+banded|unbanded
+bank|withdraw,distrust,mistrust
+baptised|unbaptized
+baptized|unbaptized
+bare|sheathed,covered
+barefacedly|ashamedly
+barf|keep down
+barreled|unbarreled
+barrelled|unbarreled
+bas relief|high relief
+basal|cauline
+basic|incidental
+basify|acidify
+basipetal|acropetal
+basiscopic|acroscopic
+be active|rest
+be full|starve
+be quiet|open up
+be sick|keep down
+be well|suffer
+beachlike|cliffy
+beachy|cliffy
+beaked|beakless
+beakless|beaked
+bear away|bring
+bear in mind|forget
+bear off|bring
+bear on|discontinue
+bear|bull
+bearing|nonbearing
+beat back|attract
+beautiful|ugly
+beautify|uglify
+beauty|ugliness
+bedamn|bless
+bedded|bedless
+bedless|bedded
+beef up|weaken
+befittingly|unsuitably
+begetter|mother
+begin|end
+beginning|middle,ending,finish
+begrime|clean
+begrudge|wish
+behave|misbehave
+being|nonbeing,nonexistence
+beingness|nonbeing,nonexistence
+belatedly|early
+belief|unbelief
+believable|incredible
+believably|incredibly,unbelievably
+believe|disbelieve
+belittle|flatter
+bellied|bellyless
+bellyless|bellied
+below|above,above,upstairs
+belt along|linger
+belt up|open up
+belt|unbelt
+belted|unbelted
+beltless|belted
+bemire|clean
+bend|unbend,straighten
+beneath|above
+beneficed|unbeneficed
+beneficence|maleficence
+beneficent|maleficent
+benevolence|malevolence
+benign|malign,malignant
+benignancy|malignancy,malignity
+benignant|malign
+benignity|malignancy,malignity
+bequeath|disinherit
+beseeching|imperative
+beshrew|bless
+best|worst
+bestride|hop out
+betray|undeceive
+better|worse,worsen
+bettering|worsening
+biaural|monaural
+bibbed|bibless
+bibless|bibbed
+bicameral|unicameral
+biennial|annual,perennial
+bigness|littleness,smallness
+bimodal|unimodal
+binaural|monaural
+binaurally|monaurally
+bind|untie,unbind
+binuclear|mononuclear,trinucleate
+binucleate|mononuclear,trinucleate
+binucleated|mononuclear,trinucleate
+biological|adoptive
+biovular|identical
+biped|quadruped,quadrupedal
+bipedal|quadruped,quadrupedal
+bipolar|unipolar
+birth|death
+bisexual|heterosexual,homosexual
+bivalent|multivalent,univalent
+bivalve|univalve
+bivalved|univalve
+blab out|keep quiet
+blab|keep quiet
+black|white,whiten
+blacken|whiten
+blackness|white
+blame|absolve
+blandish|disparage
+blank out|remember
+blear|focus
+blemished|unblemished
+blended|unblended
+bless|desecrate,curse
+blessed|cursed
+blessing|disapproval
+blest|cursed
+blind|sighted
+blithely|unhappily
+block|remember,unblock,unfreeze,free,unstuff
+blond|brunet
+blonde|brunet
+bloodily|bloodlessly
+bloodless|bloody
+bloodlessly|bloodily
+bloody|bloodless
+blow out|ignite
+blow up|reduce,deflate
+blow|conserve
+blubber|leanness
+blue-collar|white-collar
+blunt file|taper file
+blunt|enliven,sharpen
+bluntness|sharpness
+blur|focus
+blurriness|distinctness,sharpness
+board|get off
+bodied|unbodied
+bodoni font|old style
+bodoni|old style
+boil|freeze
+bold|timid
+boldness|timidity
+bolt|unbolt
+bomb|pass
+boneless|bony
+boney|boneless
+bony|boneless
+bordered|unbordered
+bore|interest
+born|unborn
+borrow|lend
+borrower|lender
+botany|fauna
+bottle-fed|breast-fed
+bottlefeed|breastfeed
+bottle-feed|bottlefeed
+bottom out|top out
+bottom|side,top
+bottomed|bottomless
+bottomless|bottomed
+bottom-up|top-down
+bounce back|get worse
+bounce|clear
+bound|unbound,free
+bowed|plucked
+boycott|patronise,patronize
+brace|de-energise,de-energize,sedate
+bracteate|ebracteate
+bracted|ebracteate
+braid|unbraid
+branch out|specialise,specialize
+branchiate|abranchiate
+branchless|branchy
+branchy|branchless
+branded|unbranded
+brave|cowardly,timid
+braveness|cowardice
+bravery|cowardice,fear
+breach|keep
+break apart|assemble,unify
+break down|synthesize
+break even|lose,profit
+break of day|sunset
+break up|assemble
+break|repair,promote,make,keep,conform to
+breakable|unbreakable
+breasted|breastless
+breast-fed|bottle-fed
+breastfeed|bottlefeed
+breastless|breasted
+breathe in|exhale
+breathe out|inhale
+breathing|breathless
+breathless|breathing
+bridgeable|unbridgeable
+bridle|unbridle
+bright|dull,dimmed
+brighten|darken,overcast
+brightness|dullness
+brine|fresh water
+bring around|anesthetize
+bring back|anesthetize
+bring down|raise
+bring off|fail
+bring round|anesthetize
+bring to|anesthetize
+bring up|lower
+bring|take away
+broad|narrow
+broaden|specialise,specialize
+broadening|narrowing
+broadly|narrowly
+broad-minded|shockable
+broadness|narrowness
+broadnosed|catarrhine,leptorrhine
+broken|unbroken
+brother|sister
+brotherlike|sisterly
+brotherly|sisterly
+brunet|blond
+brunette|blond
+bucket along|linger
+buckle|unbuckle
+build up|disarm
+bulging|concave
+bulk|minority
+bull|bear
+bump|promote
+bumpy|smooth
+buoy up|weigh down
+burden|unburden
+burdened|unburdened
+buried|unburied
+burned|unburned
+burnt|unburned
+burst|implode
+burthen|unburden
+bury|remember
+bushel|break
+bust|repair
+busy|idle
+butterball|thin person
+button up|open up
+button|unbutton
+buttoned|unbuttoned
+buy at|boycott
+buy the farm|be born
+by all means|by no means
+by chance|deliberately
+by choice|accidentally
+by design|accidentally
+by hand|by machine
+by machine|by hand
+by no means|by all means
+cacodaemon|eudemon
+cacodemon|eudemon
+cacogenic|eugenic
+cacogenics|eugenics
+cacophonic|euphonious
+cacophonous|euphonious
+caducous|persistent
+caenogenesis|palingenesis
+cainogenesis|palingenesis
+calced|discalced
+calcicolous|calcifugous
+calcifugous|calcicolous
+calcify|decalcify
+calculable|incalculable
+call back|forget
+call for|obviate
+call option|put option
+call up|demobilize,forget
+call|put option
+calm down|agitate
+calm|stormy,discomposure,agitate,stimulate
+calmness|agitation
+caloric|nonthermal
+candor|unfairness
+candour|unfairness
+capability|incapability
+capable|incapable
+capableness|incapability
+capacity|incapacity
+capital|lowercase
+capitalism|socialism
+capitalist|socialistic
+capitalistic|socialistic
+captor|liberator
+capturer|liberator
+cared-for|uncared-for
+careful|careless
+carefully|carelessly,incautiously
+carefulness|carelessness,incaution
+careless|careful
+carelessly|carefully,cautiously
+carelessness|carefulness
+carinate|ratite
+carnivorous|herbivorous,omnivorous
+carpellate|acarpelous
+carpeted|uncarpeted
+carry away|bring
+carry off|fail,bring
+carry on|discontinue
+carve up|unite
+carved|uncarved
+carven|uncarved
+cash|credit
+cast down|elate
+cast off|cast on
+cast on|cast off
+cast|keep down
+castrated|uncastrated
+catabatic|anabatic
+catabolic|anabolic
+catabolism|anabolism
+cataclinal|anaclinal
+catadromous|diadromous,anadromous
+catalectic|acatalectic
+cataphatism|apophatism
+catarrhine|leptorrhine,platyrrhine
+catarrhinian|leptorrhine,platyrrhine
+catch|unhitch
+categorem|syncategorem
+categoreme|syncategorem
+cathode|anode
+cathodic|anodic
+cationic|anionic
+caudal|cephalic
+caudate|acaudate
+caudated|acaudate
+caulescent|acaulescent
+cauline|acaulescent,radical
+caulked|uncaulked
+caution|incaution
+cautious|incautious,brave
+cautiously|carelessly,incautiously
+cautiousness|incaution
+cease|continue,begin
+ceilinged|floored
+celebrity|infamy
+cellular|noncellular
+cenobite|eremite
+cenobitic|eremitic
+cenobitical|eremitic
+cenogenesis|palingenesis
+cenogenetic|palingenetic
+censored|uncensored
+center|right,left
+central|peripheral
+centralise|decentralise,decentralize
+centrality|marginality
+centralize|decentralise,decentralize
+centrally|peripherally
+centrifugal|centripetal
+centripetal|centrifugal
+cephalic|caudal
+cerebral|emotional
+certain|uncertain,unsealed,unsure,uncertain
+certainty|uncertainty
+certified|uncertified
+certify|decertify
+chain|unchain
+change|stay
+changeable|immutable
+changed|unchanged
+changeless|mutable
+chapelgoer|Anglican
+charge up|calm
+charge|calm,discharge,pay cash
+charged|uncharged
+chariness|unwariness
+charitable|uncharitable
+chartered|unchartered
+chaste|unchaste
+cheap|expensive
+cheaply|expensively
+check in|check out
+check out|check in
+check|disagree
+cheer up|complain
+cheer|complain,dishearten
+cheerful|cheerless
+cheerfully|cheerlessly
+cheerless|cheerful
+cheerlessly|cheerfully
+child|parent
+chill|heat
+chirk up|complain
+chlamydeous|achlamydeous
+choke off|unclog
+choke up|unstuff
+choke|unclog,be born
+chondritic|achondritic
+chop-chop|slowly
+christian|unchristian
+chromatic|diatonic
+chromatinic|achromatinic
+chronic|acute
+chronically|acutely
+chuck|keep down
+cipher|decode
+circular|square
+cismontane|tramontane
+citizen|noncitizen
+civil|uncivil,sidereal
+civilian|military,serviceman
+civility|incivility
+civilly|uncivilly
+clabber|homogenise,homogenize,homogenise
+clad|unclothed
+claim|disclaim,forfeit
+clam up|open up
+clap|boo
+clarify|obfuscate
+clarity|opacity,unclearness,obscurity
+clasp|unbuckle,unclasp
+classical|nonclassical
+classicalism|Romanticism
+classicism|Romanticism
+classicist|romanticist
+classified|unclassified
+classify|declassify
+clayey|arenaceous
+clean|dirty,unfairly,unclean
+clean-handed|guilty
+cleanness|dirtiness
+clear up|obfuscate,overcast
+clear|ill-defined,cloudy,convict,bounce,overcast,unclear,clutter,opaque
+cleared|uncleared
+clearheaded|confused
+clearness|unclearness,obscurity,opacity
+clement|inclement
+clergy|laity
+clergyman|layman
+clifflike|beachy
+cliffy|beachy
+climb on|hop out
+climb|descent,wane
+clip|unclip
+clock in|punch out,clock out
+clock off|punch in,clock in
+clock on|punch out,clock out
+clock out|punch in,clock in
+clog up|unclog
+clog|unclog
+close down|open
+close up|open up,open,free
+close|distant,open,open,distant
+closed chain|open chain
+closed|open
+closeness|farness,openness
+closing|opening,opening
+clot|homogenise,homogenize,homogenise
+clothe|undress
+clothed|unclothed
+cloud|clear up
+cloudy|clear
+clutter up|unclutter
+clutter|unclutter
+coarse|fine
+coarsely|finely
+coastal|inland
+coated|uncoated
+cockcrow|sunset
+code|decode
+coding dna|intron
+coenobite|eremite
+coenobitic|eremitic
+coenobitical|eremitic
+cognation|affinity
+cognisable|unknowable
+cognisance|incognizance
+cognisant|unaware
+cognise|ignore
+cognizable|unknowable
+cognizance|incognizance
+cognizant|unaware
+cognize|ignore
+cognoscible|unknowable
+coherence|incoherence
+coherency|incoherence
+coherent|incoherent
+coherently|incoherently
+cohesion|incoherence
+cohesiveness|incoherence
+coil|uncoil
+coiled|uncoiled
+cold war|hot war
+cold|hotness
+cold-blooded|warm-blooded
+coldhearted|warmhearted
+coldness|hotness
+collateral|lineal
+collect|spread
+collected|ungathered,uncollected
+collide with|miss
+colligate|dissociate
+colly|clean
+colonise|decolonise,decolonize
+colonize|decolonise,decolonize
+color in|discolor
+color|discolor
+colored|uncolored
+colorful|uncolored,colorless,colourless,colorless
+colorise|discolor
+colorize|discolor
+colorless|colourful,colorful,colorful
+colour in|discolor
+colour|discolor
+coloured|uncolored
+colourful|colourless,colorless,colorless
+colourise|discolor
+colourize|discolor
+colourless|colourful,colorful,colorful
+columned|noncolumned
+combed|uncombed
+combined|uncombined
+come after|precede
+come alive|fall asleep
+come along|disappear,regress
+come away|attach
+come before|succeed
+come down|rise,ascend
+come in|go out,exit
+come off|attach
+come on|go off,regress
+come through|fail,succumb
+come up|set,go off,fall
+come|leave
+comedy|tragedy
+comestible|inedible
+comfort|discomfort
+commence|end
+commencement|middle,finish
+commendation|disapproval
+commit|divest
+committed|unattached,uncommitted
+commodious|incommodious
+common noun|proper noun
+common|uncommon,individual
+commonly|remarkably
+commonness|uncommonness
+commove|calm
+commutable|incommutable
+compact|loose,decompress
+compactness|distribution
+comparable|incomparable
+comparably|incomparably
+compatible|incompatible
+compatibly|incompatibly
+compensate|wrong
+competence|incompetence
+competency|incompetence
+competent|incompetent
+competition|cooperation
+complain|cheer
+complainant|defendant
+complete|incomplete
+completely|partly
+complex|simple
+complexity|simplicity
+complexness|simplicity
+compliant|defiant
+complicate|simplify
+comport|misbehave
+composed|discomposed
+compound|simple
+compress|decompress
+concave|convex
+concavely|convexly
+conceal|show
+concealed|unconcealed
+concealing|revealing
+concentrate|decentralise,decentralize
+concentrated|distributed,soft,unsaturated
+concentric|eccentric
+concentrical|eccentric
+concern|unconcern
+concerned|unconcerned
+conciliative|antagonistic
+conciliatory|antagonistic
+concise|prolix
+conclusion|beginning
+conclusive|inconclusive
+concord|disagree
+concrete|abstract
+concretely|abstractly
+concreteness|abstractness
+concur|disagree
+condemnation|acquittal,approbation
+conductor|insulator
+confidence|diffidence
+confident|unconfident
+confine|free
+confined|unconfined,invasive
+confirm|negate
+confirmed|unconfirmed
+confirming|negative
+confluent|distributary
+conform to|violate
+conform|deviate
+confront|avoid
+confused|clearheaded
+confute|prove
+congenial|uncongenial
+congest|unclog
+congruence|incongruity
+congruent|incongruent,incongruous
+congruity|incongruity
+congruous|incongruous
+conjoin|disjoin
+conjugation|disunion
+conjunct|disjunct
+conjunctive|disjunctive
+conk|be born
+connate|adnate
+connect|dissociate,unplug,disconnect
+connected|unconnected
+connotative|denotative
+conscious|unconscious
+conscript|volunteer
+consecrate|desecrated,desecrate
+consecrated|desecrated
+consent|refuse
+conservative|liberal
+conserve|waste
+consistent|incoherent
+consonant|vowel
+consonantal|vocalic
+constancy|inconstancy
+constant|inconstant
+constructive|destructive
+consume|abstain
+consumptive|generative
+contemptible|estimable
+content|discontented,discontent
+contention|cooperation
+contested|uncontested
+continent|incontinent
+continual|sporadic
+continue|discontinue
+contract out|contract in
+contract|expand,widen,expand,stretch
+contracted|expanded
+contraction|expansion
+contradict|affirm
+contrapuntal|monophonic
+contrasty|flat
+control|unrestraint
+convalesce|deteriorate
+conventional|nuclear
+converge|diverge,diverge
+convergence|divergency,divergence
+convergency|divergency,divergence
+convergent|divergent
+convex|concave
+convexly|concavely
+convey|take away
+convict|acquit
+conviction|acquittal
+convinced|unconvinced
+convincing|unconvincing
+cool down|heat
+cool|warm,heat
+cooperation|competition
+copiousness|scarcity
+cork up|uncork
+cork|uncork
+corporeal|incorporeal
+correct|wrong,incorrect,falsify,wrong
+corrected|uncorrected
+correctitude|improperness,impropriety
+correctly|wrongly,incorrectly
+correctness|wrongness
+correspond|disagree
+corroborate|negate
+corrupt|incorrupt,straight
+cortex|medulla
+cosmopolitan|provincial,endemic
+costive|laxative
+countenance|disallow,forbid
+counterfeit|genuine
+country|urban area
+couple on|uncouple
+couple up|uncouple
+couple|uncouple
+courage|cowardice
+courageous|cowardly
+course|unnaturally
+courteously|impolitely
+courtesy|discourtesy
+cousinly|uncousinly
+cover|uncover
+covered|bare
+covert|overt
+covertly|overtly
+cowardice|courage
+cowardliness|courage
+cowardly|brave
+crannied|uncrannied
+crate|uncrate
+crawl in|turn out,get up
+crazily|sanely
+creative|uncreative
+credible|incredible
+credibly|incredibly
+credit entry|debit
+credit|debit,cash
+creditor|debtor
+credulous|incredulous
+crescendo|decrescendo
+criminalise|legalize
+criminalize|legalize
+critical|noncritical,uncritical
+critically|uncritically
+criticise|praise
+criticize|praise
+croak|be born
+crooked|straight
+crookedness|straightness
+cross|uncross
+crossbred|purebred
+crossed|uncrossed
+cross-eyed|walleyed
+crosswise|lengthwise
+crowded|uncrowded
+crowned|uncrowned,unlaureled
+crownless|crowned
+crucial|noncrucial
+crude|refined
+cubic|linear,planar
+curability|incurability
+curable|incurable
+curableness|incurability
+curdle|homogenise,homogenize,homogenise
+curious|incurious
+curiousness|nativeness
+curl|uncoil
+curly|straight
+current|noncurrent
+curse|bless,communicate
+cursed|blessed
+cursorial|fossorial
+curst|blessed
+curtained|curtainless
+curtainless|curtained
+curved|straight
+curving|straight
+custom|ready-made
+custom-built|ready-made
+customised|ready-made
+customized|ready-made
+custom-made|ready-made
+cyclic|acyclic,noncyclic
+cyclical|noncyclic
+cyclone|anticyclone
+cypher|decode
+dabbler|diving duck
+damaged|undamaged
+damn|bless
+dampen|stimulate
+danger|safety
+dangerous|safe
+daring|timidity
+dark|light
+darken|brighten
+darkness|light,lightness
+datable|undatable
+dateable|undatable
+dauntlessly|fearfully
+dawdle|rush
+dawn|sunset
+dawning|sunset
+day game|night game
+day of rest|workday
+daybreak|sunset
+daylight|night
+dayspring|sunset
+daytime|night
+de facto|de jure
+de jure|de facto,unlawfully
+deactivate|activate
+deactivation|activation
+dead|animate,alive,living,live
+deaden|enliven
+deadly sin|venial sin
+deaf|hearing
+death|birth
+debark|embark
+debarkation|embarkation
+debenture|secured bond
+debilitating|invigorating
+debit entry|credit
+debit|credit
+debitor|creditor
+debtor|creditor
+decalcify|calcify
+decease|birth,be born
+deceitfully|honestly
+deceive|undeceive
+decelerate|accelerate
+deceleration|acceleration
+decency|indecency
+decent|indecent,improperly
+decently|indecently,improperly
+decentralise|concentrate,centralize,centralise
+decentralize|concentrate,centralize,centralise
+decertify|certify
+deciduous|evergreen
+decipher|encode
+decipherably|illegibly
+deciphered|undeciphered
+decision|indecision
+decisive|indecisive
+decisively|indecisively
+decisiveness|indecision
+deck out|dress down
+deck up|dress down
+declared|undeclared
+declassify|classify
+declension|ascent
+declination|improvement,ascent
+decline|better,improvement,ascent,accept
+declivity|ascent
+decode|encode
+decolonise|colonise,colonize
+decolonize|colonise,colonize
+decompress|pressurise,pressurize,tense,compress
+deconsecrate|consecrate
+decorated|unadorned
+decorous|indecorous
+decorously|indecorously
+decorousness|indecorum
+decorum|indecorum
+decouple|associate,couple
+decrease|increment,increase,increase
+decreased|increased
+decreasing|increasing
+decrement|increase,increment,increase
+decrescendo|crescendo
+decrypt|encode
+dedicated|desecrated,undedicated
+deduction|addition
+deductive|inductive
+de-energise|energise,energize
+de-energize|energise,energize
+deep|shallow
+deepness|shallowness
+de-escalate|escalate
+default on|pay up
+default|payment,pay up
+defeat|victory
+defeated|undefeated
+defence|offence,offense,prosecution
+defend|attack,prosecute
+defendant|plaintiff
+defense team|prosecution
+defense|offence,offense,prosecution
+defensive|offensive
+defensively|offensively
+defiant|compliant
+deficiency|adequacy,sufficiency
+deficient|sufficient
+deficit|lead
+defined|undefined
+definite|indefinite
+deflate|inflate
+deflated|inflated
+deflation|inflation,inflation,disinflation
+deform|unbend
+defrayal|nonpayment
+defrayment|nonpayment
+defuse|fuse
+defusing|activation
+degauss|magnetise,magnetize
+degenerate|recuperate
+degeneration|evolution
+degrade|aggrade
+dehiscent|indehiscent
+dehumanise|humanize
+dehumanize|humanize
+dehumidify|humidify
+dehydrate|hydrate
+de-iodinate|iodinate
+de-ionate|ionate
+deject|elate
+dejected|elated
+delay|rush
+delayed|expedited
+delete|record
+deliberate|unstudied
+deliberately|accidentally
+delicate|rugged
+delight|disenchant,displease
+delineate|undelineated
+delineated|undelineated
+demagnetise|magnetise,magnetize
+demagnetize|magnetise,magnetize
+demand|supply,obviate
+demanding|undemanding
+dementedly|sanely
+demerit|merit
+demilitarise|militarise,militarize,arm
+demilitarize|militarise,militarize,arm
+demise|birth
+demob|mobilise,mobilize
+demobilise|mobilize,mobilise,mobilize
+demobilize|mobilise,mobilize,mobilize
+demonstrate|disprove
+demoralise|elate
+demoralize|elate
+demote|promote
+demotion|promotion
+demulsify|emulsify
+demurrer|prosecution
+demystify|mystify
+denaturalise|naturalize
+denaturalize|naturalize
+denazify|nazify
+deniable|undeniable
+denial|prosecution
+denitrify|nitrify
+denotative|connotative
+denotive|connotative
+densely|thinly
+deny|admit,allow
+deodorise|odorize,odourise
+deodorize|odorize,odourise
+deodourise|odorize,odourise
+deoxidise|oxidize,oxidise
+deoxidize|oxidize,oxidise
+depart|conform,come,stay
+dependable|undependable,unreliable
+dependably|unreliably,undependably
+dependent|independent
+deport|repatriate
+deposit|withdraw,dislodge
+depreciate|appreciate
+depress|elate
+depressant|stimulative
+depression|elation
+depressurise|pressurise,pressurize
+depressurize|pressurise,pressurize
+deprive|enrich
+derecognise|certify
+derecognize|certify
+deregulate|regulate
+derestrict|restrict
+derived|underived
+desalinate|salinate
+desalinise|salinate
+desalinize|salinate
+desalt|salinate
+descend|rise,ascend
+descendant|ancestor
+descendent|ancestor
+descending|ascending
+descent|ascent
+descriptive|diachronic
+desecrate|consecrate
+desecrated|consecrated
+desegregate|segregate
+desensitise|sensitise,sensitize,sensitize
+desensitize|sensitise,sensitize,sensitize
+deserved|unmerited
+desiccate|hydrate
+designed|undesigned
+designedly|accidentally
+desirable|undesirable
+desirous|undesirous
+desist|consume
+despair|hope
+destabilise|stabilize,stabilize,stabilise
+destabilize|stabilize,stabilize,stabilise
+destalinise|stalinize
+destalinize|stalinize
+destroyed|preserved
+destructive|constructive
+detach|attach
+detachable|attachable
+detached|attached
+detain|free,rush
+detected|undetected
+deter|persuade
+deteriorate|recuperate
+determined|undetermined
+deterrence|incentive
+detest|love
+dethrone|enthrone
+devaluate|appreciate
+devalue|appreciate
+developed|undeveloped
+development|devolution
+deviate|conform
+devitalise|vitalize
+devitalize|vitalize
+devoice|voice
+devolution|evolution
+devolve|recuperate
+dextral|sinistral
+diabatic|adiabatic
+diachronic|synchronic
+diadromous|anadromous,catadromous
+diamond|outfield
+diapsid|anapsid
+diatonic|chromatic
+diclinous|monoclinous
+dielectric|conductor
+differ|agree,equal
+difference|sameness
+different|same,like
+difficult|easy,manageable
+difficulty|ease
+diffidence|confidence
+diffuse|hard
+diffused|hard
+digestible|indigestible
+digital|analogue
+digitigrade|plantigrade
+dignified|undignified
+dilate|contract
+diligent|negligent
+dilute|undiluted
+diluted|undiluted
+diminish|increase
+diminution|increase,augmentation
+dimmed|undimmed
+dine in|eat out
+dine out|eat in
+dioecian|monoecious
+dioecious|monoecious
+diploid|polyploid,haploid
+direct|alternating,indirect,inverse,collateral,retrograde
+directly|indirectly
+directness|indirectness
+dirtiness|cleanness
+dirty|clean
+disable|enable
+disabling|enabling
+disaccord|agree
+disadvantage|advantage
+disagree|agree
+disagreeable|agreeable
+disagreeably|agreeably
+disagreement|agreement
+disallow|allow,permit
+disappear|appear
+disappearing|appearance
+disapproval|approval
+disapprove|approve
+disapproved|approved
+disarm|arm
+disarmament|armament,arming
+disarming|armament,arming
+disarrange|arrange
+disarranged|arranged
+disarray|order
+disassemble|assemble
+disassembly|assembly
+disavow|avow
+disbelief|belief
+disbelieve|believe
+disburden|burden
+discalceate|calced
+discalced|calced
+discase|dress
+discharge|convict,fill,enlist,charge
+discipline|indiscipline
+disclaim|claim
+discolor|color
+discomfort|comfort
+discomposed|composed
+discomposure|composure
+disconnect|connect,plug in
+disconnected|legato
+disconsolate|consolable
+discontent|contented,contentment,content
+discontented|contented
+discontinue|continue
+discontinued|continued
+discord|agree
+discordant|accordant
+discourage|encourage
+discouraging|encouraging
+discourteous|courteous
+discourtesy|courtesy
+discredit|repute,believe
+discreet|indiscreet
+disembark|embark
+disenable|enable
+disenchant|enchant
+disenchanted|enchanted
+disengage|engage,obstruct
+disentangle|snarl,entangle
+disesteem|esteem,esteem,respect
+disfavor|advantage
+disfavour|advantage
+disfranchise|enfranchise
+disgorge|keep down
+disgrace|honor
+dishearten|hearten
+dishonest|honest
+dishonestly|honestly
+dishonesty|honesty
+dishonor|honor
+dishonorable|honest,honorable,glorious
+dishonorably|honorably
+dishonour|honor
+disillusion|enchant
+disincarnate|incarnate
+disincentive|incentive
+disincline|dispose
+disinclined|inclined
+disinfect|infect
+disinflation|inflation,deflation
+disingenuous|ingenuous
+disinherit|bequeath
+disintegrate|integrate
+disinvest|invest
+disjoin|join
+disjoint|join
+disjunct|conjunct
+disjunctive|conjunctive
+dislike|liking,like
+disliked|liked
+dislodge|lodge
+disloyal|loyal,patriotic
+disloyally|loyally
+disloyalty|loyalty
+dismantle|assemble,raise
+dismantling|assembly
+dismay|elate
+dismiss|hire
+disobedience|obedience,compliance,obedience
+disobedient|obedient
+disobey|obey
+disoblige|oblige
+disorder|order,orderliness,order
+disordered|ordered
+disorderly|orderly
+disorganise|organise,organize
+disorganised|organized
+disorganize|organise,organize
+disorganized|organized
+disorient|orient
+disorientate|orient
+disorienting|orienting
+disown|bequeath
+disparage|flatter
+dispirit|elate
+displease|please
+displeased|pleased
+displeasing|pleasing
+dispose|indispose,disqualify
+disprove|prove
+disqualify|qualify
+disreputable|reputable
+disreputably|reputably
+disrepute|repute
+disrespect|respect,esteem,respect
+disrobe|dress
+dissatisfy|satisfy
+dissect|synthesize
+dissension|agreement
+dissent|agree,assent
+disservice|service
+dissever|unite
+dissimilar|similar,alike,like
+dissimilate|assimilate
+dissociate|associate
+dissonance|agreement,harmony
+dissonant|musical
+dissuade|persuade
+dissuasion|persuasion
+dissuasive|persuasive
+dissymmetry|symmetry
+distal|mesial,proximal
+distant|close
+distemper|good humor
+distinct|indistinct
+distinctness|softness
+distort|untwist
+distressed|euphoric
+distributary|tributary
+distribute|gather
+distributive|collective
+distrust|trust,trust
+distrustful|trustful
+disunify|unify
+disunion|union
+diurnal|nocturnal
+diverge|converge,converge,conform
+divergence|convergency,convergence
+divergency|convergency,convergence
+divergent|convergent
+diverging|convergent
+diversify|specialize,specialise
+divest|invest
+divide|multiply,unite
+divided|united
+divider|lumper
+divisible|indivisible
+docile|stubborn
+dock|undock
+doctor|break
+domestic|undomestic,foreign
+dominant|subordinate,recessive
+domineering|submissive
+dope off|wake up
+dormant|active
+dorsal|adaxial,ventral
+double|multivalent,univalent,single
+doubt|certainty
+doubtfulness|certainty
+dove|hawk
+dovishness|hawkishness
+down|upwardly,upward,upwards
+downfall|rise
+downgrade|upgrade
+download|upload
+downmarket|upmarket
+downplay|play up,foreground,overstate
+downriver|upstream,upriver
+downslope|ascent
+downstage|upstage
+downstair|upstairs
+downstairs|upstairs
+downstream|upstream,upstream,upriver
+downtick|uptick
+downtime|uptime
+downtown|uptown
+downward|upwardly,upward,upwards
+downwardly|upwardly,upward,upwards
+downwards|upwardly,upward,upwards
+downwind|upwind,leeward,upwind
+doze off|wake up
+draft|discharge
+draftee|volunteer
+drained|undrained
+dramatic|lyric,undramatic
+draw a blank|remember
+draw in|repel,pull out
+draw off|deposit
+draw|repel,push,deposit
+dress down|dress up
+dress up|dress down
+dress|undress
+drift off|wake up
+drinkable|undrinkable
+drinker|nondrinker
+drive|attract
+driver|nondriver
+drop dead|be born
+drop off|wake up,gain
+drop out|enter
+drop|recuperate,sharpen,attend to
+drop-off|increase
+drowse off|wake up
+drowsiness|wakefulness
+drumbeater|nonpartisan
+drunk|sober
+drunkenness|soberness
+dry fly|wet fly
+dry season|rainy season
+dry up|hydrate
+dry-eyed|tearful
+dryness|wetness
+dubiety|certainty
+dubiousness|certainty
+dulcify|sour
+dulcorate|sour
+dull|lively,sharpen,sharp,bright
+dullness|sharpness,brightness
+dumb bomb|smart bomb
+dummy up|open up
+dying|nascent,birth
+dynamic|stative,undynamic
+dynamical|undynamic
+dysgenic|eugenic
+dysgenics|eugenics
+dysphemism|euphemism
+dysphemistic|euphemistic
+dysphoria|euphoria
+dysphoric|euphoric
+dyspneal|breathing
+dyspneic|breathing
+dyspnoeal|breathing
+dyspnoeic|breathing
+dystopia|utopia
+dystopian|utopian
+eager|uneager
+eared|earless
+earless|eared
+earliness|lateness
+early|middle,late,late
+earned|unearned
+earnestness|frivolity
+earthly|heavenly
+ease|difficulty
+easiness|difficulty
+east|west
+easterly|westerly
+eastern|western
+easy money|tight money
+easy|quickly,difficult,uneasy
+eat in|eat out
+eat out|eat in
+eatable|inedible
+ebb away|tide
+ebb down|tide
+ebb off|tide
+ebb out|tide
+ebbtide|flood tide
+ebracteate|bracteate
+eccentric|concentric
+eccrine|apocrine
+ecdemic|endemic,epidemic
+echoic|nonechoic
+echt|counterfeit
+economise|waste
+economize|waste
+ectomorphic|endomorphic,mesomorphic
+edible|inedible
+edifying|unedifying
+educated|uneducated
+edulcorate|sour
+e'er|never
+effective|ineffective
+effector|receptor
+effectual|ineffective
+efferent|afferent
+effervescent|still
+efficacious|ineffective
+efficacy|inefficacy
+efficient|inefficient
+effluence|influx,inflow
+efflux|influx,inflow
+effortful|effortless
+effortless|effortful
+egalitarian|elitist
+egocentric|altruistic
+egocentrism|altruism
+egoism|altruism
+egoistic|altruistic
+egoistical|altruistic
+egress|immersion,ingress
+elaborate|contract
+elastic|inelastic
+elate|depress
+elated|dejected
+elation|depression
+elderly|young
+elected|appointive
+elective|appointive
+elegance|inelegance
+elegant|inelegant
+elegantly|inelegantly
+elevate|demote,lower
+eligible|ineligible
+eliminate|necessitate
+elitist|egalitarian
+eloquently|ineloquently
+elucidate|obfuscate
+email|snail mail,snail mail
+e-mail|snail mail,snail mail
+embark|disembark
+embellish|uglify
+embolden|dishearten
+emersion|immersion,ingress
+emigrate|immigrate
+emit|absorb
+emmetropic|ametropic
+emotional|unemotional,cerebral
+empiric|theoretical
+empirical|theoretical
+employ|unemployment,fire
+employable|unemployable
+employed|unemployed
+employee|employer
+employer|employee
+employment|unemployment
+emptiness|fullness
+empty|full,fill
+emulsify|demulsify
+enable|disable
+enabling|disabling
+enchant|disenchant
+enchanted|disenchanted
+encipher|decode
+enclosed|unenclosed
+enclothe|undress
+encode|decode
+encourage|discourage
+encrypt|decode
+endemic|epidemic,ecdemic
+endemical|epidemic,ecdemic
+ending|beginning,beginning,middle
+endlessly|finitely
+endocentric|exocentric
+endocrinal|exocrine
+endocrine|exocrine
+endoergic|exoergic
+endogamic|exogamous,autogamous,exogamous
+endogamous|exogamous,autogamous,exogamous
+endogamy|exogamy
+endogenic|exogenic,exogenous
+endogenous|exogenic,exogenous
+endomorphic|mesomorphic,ectomorphic
+endothermal|exothermic
+endothermic|exothermic
+endotoxin|exotoxin
+endowed|unendowed
+endozoic|epizoic
+end-stopped|run-on
+endure|enjoy
+enemy|friend
+energetic|lethargic
+energise|de-energise,de-energize,sedate
+energize|de-energise,de-energize,sedate
+enforce|exempt
+enforced|unenforced
+engage|fire,disengage
+enjoy|suffer
+enjoyably|disagreeably
+enlace|untwine
+enlarge|reduce,contract
+enlarged|atrophied
+enlargement|contraction
+enlightened|uninitiate
+enlightening|unedifying
+enlist|discharge
+enliven|deaden
+enlivened|unenlivened
+enquiry|answer
+enrapture|disenchant
+enrich|impoverish,deprive
+entangle|unsnarl,disentangle
+enter|exit,drop out
+enthral|disenchant
+enthrall|disenchant
+enthrone|divest,dethrone
+entirely|partly
+entozoan|epizoic
+entozoic|epizoic
+entwine|untwine
+epidemic|endemic,ecdemic
+epizoic|entozoic
+equal|unequal,unlike,differ
+equalitarian|elitist
+equality|inequality
+equally|unequally,unevenly
+equatorial|polar
+equilibrate|unbalance
+equilibrise|unbalance
+equilibrize|unbalance
+equipped|unequipped,unfurnished
+equipping|disarmament,disarming
+equipt|unequipped
+equitable|inequitable
+equitably|inequitably
+equity|inequity,unfairness
+equivalent|unlike
+equivocal|unequivocal
+erase|record
+erect|unerect,level
+eremite|cenobite
+eremitic|cenobitic
+eremitical|cenobitic
+errancy|inerrancy
+eruptive|aqueous
+escalate|de-escalate
+esoteric|exoteric
+essential|inessential,adjective
+establish|disprove,abolish
+esteem|disesteem,disrespect,disesteem,disrespect
+esthetic|inaesthetic
+esthetical|inaesthetic
+estivate|hibernate
+estrous|anestrous
+estrus|anestrus
+ethical|unethical
+ethically|unethically
+eucaryote|prokaryote
+eucaryotic|procaryotic,prokaryotic
+eudaemon|cacodemon
+eudaemonia|ill-being
+eudaimonia|ill-being
+eudemon|cacodemon
+eugenic|dysgenic
+eugenics|dysgenics
+eukaryote|prokaryote
+eukaryotic|procaryotic,prokaryotic
+euphemism|dysphemism
+euphonious|cacophonous
+euphonous|cacophonous
+euphoria|dysphoria
+euphoric|dysphoric
+euphory|dysphoria
+eupneic|breathless
+eupnoeic|breathless
+evasion|payment
+even|uneven,odd
+evenly|unequally,unevenly,unevenly
+evenness|unevenness,variability,unevenness
+eventful|uneventful
+ever|never
+evergreen|deciduous
+evil|good,goodness,good
+evilness|goodness,good
+evitable|inevitable
+evolution|devolution
+ex vivo|in vivo
+exacerbate|better
+exact|inexact
+exactitude|inexactness
+exactly|inexactly,imprecisely
+exactness|inexactness
+exaggerate|understate
+exasperate|better
+exaugural|inaugural
+except|include
+excitable|unexcitable
+excite|calm,stifle
+excited|unexcited
+exciting|unexciting
+excitingly|unexcitingly
+exclude|include,admit
+exclusion|inclusion
+exclusive|inclusive
+exculpate|convict
+exculpatory|inculpatory
+excusable|inexcusable
+excusably|unpardonably,unforgivably,inexcusably
+excusatory|unapologetic
+exempt|nonexempt,taxable,enforce
+exhale|inhale
+exhausted|unexhausted
+exile|repatriate
+existence|nonexistence,nonbeing
+existent|potential,nonexistent,unreal
+existing|nonexistent
+exit|be born,enter
+exocentric|endocentric
+exocrine|endocrine
+exoergic|endoergic
+exogamic|autogamous,endogamous,endogamous
+exogamous|autogamous,endogamous,endogamous
+exogamy|endogamy
+exogenic|endogenic,endogenous
+exogenous|endogenic,endogenous
+exon|intron
+exonerate|convict
+exoteric|esoteric
+exothermal|endothermic
+exothermic|endothermic
+exotoxin|endotoxin
+expand|contract
+expanded|contracted
+expansion|contraction
+expansive|unexpansive
+expatiate|contract
+expatriate|repatriate
+expected|unexpected
+expedience|inexpediency,inexpedience
+expediency|inexpediency,inexpedience
+expedient|inexpedient
+expedited|delayed
+expenditure|income
+expensive|cheap
+expensively|cheaply
+expire|be born,inhale
+expired|unexpired
+expiry|birth
+explicable|inexplicable
+explicit|implicit
+explicitly|implicitly
+explode|implode
+exploited|unexploited
+explosive|nonexplosive
+export|import
+exportable|unexportable
+exportation|import
+expose|cover
+exposit|contract
+expound|contract
+express|local
+expressed|implicit
+exsiccate|hydrate
+extant|extinct
+extended|unextended
+extensible|nonextensile
+extensile|nonextensile
+extension|flexion
+extensive|intensive
+extensor|flexor
+exterior|interior,inside
+external|internal
+externality|inwardness
+externally|internally
+extinct|active,extant
+extinguish|ignite
+extramural|intramural
+extrasensory|sensory
+extraversion|introversion,ambiversion
+extraversive|ambiversive,introversive
+extravert|introvert
+extrinsic|intrinsic
+extroversion|introversion,ambiversion
+extroversive|ambiversive,introversive
+extrovert|introvert
+extrusive|intrusive
+eyed|eyeless
+eyeless|eyed
+fabrication|disassembly
+face up|avoid
+face|avoid,back
+faced|faceless
+faceless|faced
+faceted|unfaceted
+factory-made|homemade
+factual|de jure
+facultative|obligate
+fag out|refresh
+fail|pass,succeed,manage
+failing|passing
+failure|success,achiever
+fair ball|foul ball
+fair|unfair,unfairly,partial,foul
+fairly|unfairly,immoderately
+fairness|inequity,unfairness,unfairness
+faithful|unfaithful
+faithfully|unreliably,undependably,unfaithfully
+faithfulness|infidelity
+fall asleep|wake up
+fall back|gain,advance
+fall behind|gain
+fall|increase,rise,ascend,rise,ascent
+fallible|infallible
+falling|rising
+falsehood|truth
+falseness|truth,sincerity
+falsify|correct
+falsity|truth
+falteringly|steadily
+fame|infamy
+familiar|unfamiliar,strange
+famish|be full,feed
+fancify|uglify
+fancy up|dress down
+fancy|plain
+farawayness|nearness
+farness|nearness
+farsighted|nearsighted
+fashionable|styleless
+fast lane|slow lane
+fast|slow
+fasten|unfasten
+fastened|unfastened,unbuttoned,untied
+fastidious|unfastidious
+fastness|looseness
+fat person|thin person
+fatal|nonfatal
+fat-free|fatty
+father|mother
+fatigue|refresh
+fatless|fatty
+fatness|leanness
+fatso|thin person
+fatty|nonfat,thin person
+fault|merit,absolve
+fauna|flora
+favorable|unfavorable
+favorably|unfavorably
+favourable|unfavorable
+favourably|unfavorably
+fear|fearlessness
+fearful|brave
+fearfully|fearlessly
+fearfulness|fearlessness
+fearless|afraid
+fearlessly|fearfully
+fearlessness|fear,fearfulness
+feathered|unfeathered
+featherless|feathered
+feature|lack
+febrile|afebrile
+fecundity|infertility
+federal|unitary
+feed|starve
+feeder|distributary
+feelingly|unfeelingly
+felicitous|infelicitous
+felicity|infelicity,unhappiness
+female child|male child
+female|androgynous,male,male
+femaleness|maleness
+feminine|masculine,neuter,masculine,unwomanly
+feminineness|maleness
+femininity|masculinity
+ferned|fernless
+fernless|ferned
+ferny|fernless
+fertile|sterile
+fertility|infertility
+fetch|take away
+feverish|afebrile
+fewer|more
+fewest|most
+fidelity|infidelity
+fig out|dress down
+fig up|dress down
+figurative|literal
+figuratively|literally
+figure|ground
+file in|file out
+file out|file in
+filial|parental
+fill up|empty
+fill|empty
+filled|unfilled
+financial|nonfinancial
+find|lose
+fine|coarse
+finely|coarsely
+fingered|fingerless
+fingerless|fingered
+finish|begin,beginning,start
+finished|unfinished
+finishing|start
+finite|infinite
+finitely|infinitely
+finiteness|infiniteness
+finitude|infiniteness
+fire|hire
+firmness|unsoundness
+first light|sunset
+first|middle,last,intermediate,second
+fissile|nonfissile
+fit out|undress
+fitly|unsuitably
+fitness|unfitness
+fittingly|unsuitably
+fittingness|unfitness
+fixed|unfixed
+fixedness|looseness
+fixity|looseness,mutableness,mutability
+fixture|looseness
+flake out|wake up
+flat|natural,sharp,contrasty,indirectly
+flat-bellied|bellied
+flatten|sharpen
+flatter|disparage
+flattering|unflattering
+flawlessness|imperfection
+fledged|unfledged
+fleece|undercharge
+flesh out|contract
+flex|straighten,unbend
+flexible|inflexible
+flexibly|inflexibly
+flexile|inflexible
+flexion|extension
+flexor|extensor
+flexure|extension
+float|sink
+flood tide|ebbtide
+flood|ebbtide
+floored|ceilinged
+flora|fauna
+flowering|flowerless
+flowerless|flowering
+flowing|subartesian
+flunk|passing,pass
+flush it|pass
+flying bird|ratite
+focalise|blur
+focalize|blur
+focus|blur
+focused|unfocused
+focussed|unfocused
+fogginess|sharpness,distinctness
+fold up|unfold
+fold|open,unfold
+follow|predate,precede
+follower|leader
+following|leading
+folly|wisdom
+foolish|wise
+foolishly|wisely
+foolishness|wisdom
+foot|head
+footed|footless
+footless|footed
+for good|temporarily
+forbear|act
+forbearance|impatience
+forbid|allow,permit
+force back|attract
+force out|hire
+force|push,pull
+forceful|forceless
+forceless|forceful
+fore|aft
+foredate|postdate
+forego|postdate
+foreground|play down,background
+forehand|backhand
+forehanded|backhand
+foreign|domestic,native
+foreigner|citizen
+foreignness|nativeness
+forepart|rear
+foreshorten|expand
+forfeit|claim
+forget|remember,mind
+forgetful|mindful,retentive
+forgivably|unpardonably,unforgivably,inexcusably
+forgiving|unforgiving
+forgo|claim,postdate
+formal|informal
+formalise|invalidate
+formalism|imitation
+formality|informality
+formalize|invalidate
+formally|informally
+formalness|informality
+formed|unformed
+former|latter
+forrad|backward
+forrard|backward
+forte|piano,weak point
+fortify|disarm,weaken
+fortissimo|pianissimo
+fortuitously|unluckily
+fortunate|unfortunate
+fortunately|unluckily
+forward|backward,reverse,backward,back,aft
+forwards|backward
+fossorial|cursorial
+foul ball|fair ball
+foul|unclog,fair
+found|lost,abolish
+four-footed|biped,bipedal
+fraction|multiply
+fractional|whole
+fragrant|malodorous
+frail|robust
+framed|unframed
+fraternal|identical,sisterly
+free state|slave state
+free|unfree,blame,obstruct,lodge,enforce,confine,freeze,block,slave,bound
+freelance|salaried
+freeze|unblock,unfreeze,boil
+frequent|infrequent,boycott
+frequently|rarely,infrequently
+fresh water|saltwater
+fresh|rotten,preserved,stale,salty
+freshen|tire
+freshness|staleness
+freshwater|saltwater
+fretted|unfretted
+friend|foe
+friendly|unfriendly,hostile,hostile
+fright|fearlessness
+frigidity|hotness
+frigidness|hotness
+frivolity|seriousness
+frivolous|serious
+front burner|back burner
+front end|rear
+front|back,rear
+frontward|backward
+frontwards|backward
+frozen|unfrozen
+fruitful|unfruitful
+fruitfully|unprofitably,fruitlessly
+fruitlessly|profitably,fruitfully,productively
+fueled|unfueled
+full|empty,wane,thin
+fullness|emptiness
+full-term|premature
+full-time|part-time,half-time
+fully|meagerly
+function|malfunction
+functional|organic
+funded|unfunded
+furbish up|break
+furnished|unfurnished
+furrowed|unfurrowed
+fuse|defuse
+future|past,present,past
+futurity|past,pastness,presentness
+fuzziness|sharpness,distinctness
+gabled|hipped
+gain ground|fall back
+gain|reduce,loss,lose,fall back
+garb|undress
+garment|undress
+garner|spread
+gaseous|solid,liquid
+gather|spread
+gathered|ungathered,uncollected
+gathering|disassembly
+gaucherie|urbanity
+gayly|unhappily
+gazump|undercharge
+geared|ungeared
+general|specific,local,particular,specific
+generalise|specify
+generalist|specialist
+generalize|specify
+generally|narrowly
+generative|consumptive
+generic wine|varietal
+generic|varietal
+generosity|stinginess
+generous|stingy,ungenerous
+generousness|stinginess
+gentleness|abruptness
+genuine|counterfeit
+geographic|magnetic
+geographical|magnetic
+germfree|germy
+germy|germfree
+get ahead|fall back
+get along|regress
+get down|elate,raise
+get dressed|undress
+get going|stop
+get in|exit,pull out
+get into|exit
+get off|get on,hop on
+get on|get off,hop out,regress
+get out|enter,pull in
+get over|get worse
+get rid of|establish
+get up|sit down,lie down,dress down,lower,turn in,go to bed
+get well|get worse
+get worse|get well
+get-go|middle
+gibe|disagree
+gifted|untalented
+gilled|abranchiate
+gill-less|branchiate
+gird|disarm
+girl|male child
+give notice|hire
+give off|absorb
+give out|absorb
+give suck|bottlefeed
+give the axe|hire
+give up|resist,continue,enter,claim
+give|starve,take
+given|taken
+gladden|sadden
+glassed|unglazed
+glassless|glazed
+glazed|unglazed
+gleefully|joylessly
+glorious|inglorious
+gloved|gloveless
+gloveless|gloved
+gluttonous|abstemious
+gnostic|agnostic
+go against|keep,conform to
+go along|discontinue
+go away|appear,come,arrive
+go down|rise,ascend,rise,float
+go for|refuse
+go forth|arrive
+go in|exit
+go into|exit
+go off|explode,go on
+go on|recede,go off,discontinue
+go out|come in,enter
+go to bed|turn out,get up
+go to sleep|turn out,get up
+go to|miss
+go under|rise,float
+go up|descend,fall
+go with|straddle
+go wrong|succeed
+godlessness|theism,godliness
+godliness|ungodliness
+good egg|bad egg
+good fortune|bad luck,misfortune
+good guy|bad guy
+good health|ill health
+good humor|ill humor
+good humour|ill humor
+good luck|bad luck,misfortune
+good manners|discourtesy
+good nature|ill nature
+good part|weak part
+good person|bad person
+good shape|unfitness
+good spirit|cacodemon
+good temper|ill humor
+good weather|bad weather
+good|evil,ill,evilness,evil,badness,bad
+good-natured|ill-natured
+goodness|badness,evilness,evil
+govern|deregulate
+graceful|awkward
+gracefully|gracelessly,ungracefully,ungraciously
+gracefulness|awkwardness
+gracelessly|gracefully,gracefully,graciously
+gracious|ungracious
+graciously|ungracefully,ungraciously
+graciousness|malignancy,malignity
+gradual|sudden,steep
+gradualness|abruptness
+grant|deny
+granter|withholder
+granular|achondritic
+grassless|grassy
+grassy|grassless
+grateful|ungrateful
+gratefully|ungratefully
+gratify|dissatisfy
+gratitude|ingratitude
+gravitation|levitation
+gravity bomb|smart bomb
+gravity|levity
+greased|unlubricated
+greater|lesser
+green|ripe
+greenness|ripeness
+gregarious|ungregarious
+grime|clean
+groomed|ungroomed
+ground|figure
+grownup|juvenile
+growth|decrement,decrease
+guided|unguided
+guilt|innocence
+guiltiness|innocence
+guiltless|guilty
+guilty|innocent
+gusseted|ungusseted
+gussy up|dress down
+gutless|gutsy
+gutlessness|gutsiness
+gutsiness|gutlessness
+gutsy|gutless
+habilitate|undress
+haired|hairless
+hairless|hairy
+hairlessness|hairiness
+hairy|hairless
+half|whole
+half-time|full-time
+hallow|desecrate
+halt|start
+ham it up|underact
+hand mower|power mower
+handed|handless
+handled|handleless
+handleless|handled
+handless|handed
+haploid|diploid,polyploid
+haploidic|diploid,polyploid
+happily|unhappily,sadly
+happiness|sadness,unhappiness
+happy|unhappy
+hard drug|soft drug
+hard water|soft water
+hard|soft,voiced,soft,lightly,easy
+hardball|softball
+harden|soften
+hardened|soft,untempered
+hardhearted|softhearted
+hardihood|timidity
+hardiness|timidity
+hardness|softness
+hardware|software
+harmful|harmless,advantageous,innocuous
+harmfully|harmlessly
+harmless|harmful,noxious
+harmlessly|harmfully
+harmonic|nonharmonic
+harmonious|inharmonious
+harmony|dissonance
+harness|unharness
+harsh|fine
+hasten|linger
+hastily|unhurriedly
+hate|love
+hateful|lovable
+hatless|hatted
+hatred|love
+hatted|hatless
+have|refuse,abstain,lack
+hawk|dove
+hawkishness|dovishness
+head|tail,foot,rear
+headed|headless,unheaded
+headless|headed
+health|illness,unwellness
+healthful|unhealthful,unsanitary
+healthiness|ill health
+healthy|unfit,unhealthy
+hearable|inaudible
+hearing|deaf
+hearten|dishearten
+heartless|softhearted
+heat up|cool
+heat|anestrus,coldness,cool,cool
+heaven|Hell
+heavenly|earthly
+heavily|lightly
+heaviness|lightness
+heavy|light
+heavy-duty|light-duty
+heavy-footed|light-footed
+heedful|heedless
+heedfully|unmindfully
+heedfulness|heedlessness
+heedless|heedful
+heedlessness|heedfulness,mindfulness
+heliocentric|geocentric
+hell|Heaven
+helpful|unhelpful
+helpfully|unhelpfully
+herbivorous|omnivorous,carnivorous
+here|there
+hereafter|past
+hereness|thereness
+heresy|orthodoxy
+heterocercal|homocercal
+heterodactyl|zygodactyl
+heterodoxy|orthodoxy
+heteroecious|autoecious
+heterogenous|homogeneous,autogenous
+heterologic|analogous,homologous
+heterologous|autologous,homologous,analogous
+heterosexual|homosexual,bisexual
+heterozygous|homozygous
+heuristic|algorithmic
+hibernate|estivate,aestivate
+hide|show
+high pitch|low pitch
+high quality|low quality,inferiority
+high relief|low relief
+high season|off-season
+high status|low status
+high tide|low tide
+high water|low tide
+high|low,low spirits
+higher up|below
+higher-up|inferior
+highland|lowland
+highlight|play down,background
+highness|lowness
+high-pitched|low
+high-rise|low-rise
+high-sudsing|low-sudsing
+high-tech|low-tech
+high-tension|low-tension
+highwater|low tide
+hipless|hipped
+hipped|hipless,gabled
+hire|fire
+hired|unchartered
+hirsute|hairless
+hiss|applaud
+historical|synchronic,ahistorical
+hit the hay|turn out,get up
+hit the sack|turn out,get up
+hitch|unhitch
+hi-tech|low-tech
+hither|there
+hold on|lose
+hold out|surrender
+hold up|rush
+hold|disagree,let go of
+hole up|estivate,aestivate
+holiness|unholiness
+holism|atomism
+holistic|atomistic
+hollow|solid
+hollowness|solidity,sincerity
+holophytic|holozoic
+holozoic|holophytic
+holy|unholy
+home game|away game
+home|away
+homemade|factory-made
+homeopathic|allopathic
+homeopathy|allopathy
+homocentric|eccentric
+homocercal|heterocercal
+homoecious|heteroecious
+homoeopathy|allopathy
+homogenise|curdle,curdle
+homogenize|curdle,curdle
+homologous|heterologous,autologous,analogous
+homosexual|bisexual,heterosexual
+honest|dishonest
+honestly|dishonestly
+honestness|dishonesty
+honesty|dishonesty
+honk|keep down
+honor|dishonor,disrespect
+honorable|dishonest,dishonorable
+honorably|dishonorably
+honour|dishonor,disrespect
+honourable|dishonorable
+honourably|dishonorably
+hoofed|unguiculate
+hook|unhook,undercharge
+hooved|unguiculate
+hop on|hop out
+hop out|hop on
+hope|despair
+hopeful|hopeless
+hopefully|hopelessly
+hopefulness|hopelessness
+hopeless|hopeful
+hopelessly|hopefully
+hopelessness|hopefulness
+horizontal|vertical,inclined
+horned|hornless
+hornless|horned
+host|parasite
+hostile|amicable,friendly
+hot up|cool
+hot war|cold war
+hotfoot|linger
+hotness|coldness
+hubby|wife
+human|nonhuman
+humane|inhumane
+humanely|inhumanely
+humaneness|inhumaneness
+humanise|dehumanize
+humanize|dehumanize
+humble|proud
+humbleness|pride
+humidify|dehumidify
+humility|pride
+humorless|humorous
+humorlessly|humorously
+humorous|humorless
+humorously|humorlessly
+humourless|humorous
+humourlessly|humorously
+humourous|humorless
+hunger|be full
+hungry|thirsty
+hurried|unhurried
+hurriedly|unhurriedly
+hurry|delay
+hurt|be well
+husband|wife,waste
+husbandly|wifely
+hush up|louden
+hush|louden
+hydrate|dehydrate
+hydrated|anhydrous
+hydric|mesic,xeric
+hydrokinetic|hydrostatic
+hydrophilic|hydrophobic
+hydrophobic|hydrophilic
+hydrous|anhydrous
+hyerbolise|understate
+hyperbolize|understate
+hypercapnia|hypocapnia
+hypercarbia|hypocapnia
+hyperkalemia|hypokalemia
+hypermetropy|myopia
+hyperopia|myopia
+hyperpnea|hypopnea
+hypersomnia|insomnia
+hypertension|hypotension
+hypertensive|hypotensive
+hyperthermia|hypothermia
+hyperthermy|hypothermia
+hypertonia|hypotonicity,hypotonus,hypotonia
+hypertonic|hypotonic,isotonic
+hypertonus|hypotonicity,hypotonus,hypotonia
+hypervolemia|hypovolemia
+hypocapnia|hypercapnia
+hypokalemia|hyperkalemia
+hypopnea|hyperpnea
+hypotension|hypertension
+hypotensive|normotensive
+hypothermia|hyperthermia
+hypotonia|hypertonus,hypertonia
+hypotonic|hypertonic,isotonic,hypertonic
+hypotonicity|hypertonus,hypertonia
+hypotonus|hypertonus,hypertonia
+hypovolaemia|hypervolemia
+hypovolemia|hypervolemia
+identical|fraternal
+idiographic|nomothetic
+idle|busy,work
+igneous|aqueous
+ignite|extinguish
+ignoble|noble
+ignore|know,notice
+ill health|good health
+ill humor|good humor
+ill humour|good humor
+ill luck|good luck
+ill nature|good nature
+ill service|service
+ill turn|service
+ill-advised|well-advised
+ill-being|well-being
+ill-defined|well-defined
+illegal|legal
+illegalise|legalize
+illegality|legality
+illegalize|legalize
+illegally|lawfully
+illegibility|legibility
+illegible|legible
+illegibly|legibly
+illegitimacy|legitimacy
+illegitimate|legitimate
+ill-formed|grammatical
+illiberality|liberality
+illicit|licit
+illicitly|lawfully,licitly,legitimately
+illicitness|licitness
+illiteracy|literacy
+illiterate|literate
+illness|wellness
+illogic|logicalness,logicality
+illogical|logical
+illogicality|logicalness,logicality
+illogically|logically
+ill-smelling|fragrant
+ill-treated|unabused
+imbalance|symmetry,balance
+imbalanced|balanced
+imbiber|nondrinker
+imitation|formalism
+imitative|genuine,nonechoic
+immanent|transeunt
+immaterial|corporeal,material
+immature|mature,ripe,fledged,old
+immaturely|maturely
+immatureness|maturity
+immaturity|maturity
+immeasurable|measurable
+immeasurably|measurably
+immediacy|mediacy
+immediate|mediate
+immensurable|measurable
+immersion|emersion,egress
+immigrate|emigrate
+immiscible|miscible
+immobile|mobile
+immobilise|unblock,unfreeze
+immobility|mobility
+immobilize|unblock,unfreeze
+immoderate|moderate
+immoderately|moderately,reasonably,moderately
+immoderation|moderation
+immodest|modest
+immodestly|modestly
+immodesty|modesty
+immoral|moral,amoral
+immorality|morality
+immorally|morally
+immortal|mortal
+immortality|mortality
+immotility|motility
+immovability|movableness,movability
+immutability|mutableness,mutability
+immutable|mutable
+impaired|unimpaired
+impalpable|palpable,tangible
+impartial|partial,prejudiced
+impartiality|partiality
+impassable|passable
+impatience|patience
+impatient|patient
+impatiently|patiently
+impede|free
+impenetrable|penetrable
+impenitent|repentant,penitent
+impenitently|repentantly,penitently
+imperative|beseeching
+imperfect|perfect
+imperfection|perfection
+imperfectly|perfectly
+imperishable|perishable
+impermanence|permanence
+impermanency|permanence
+impermanent|permanent
+impermeable|permeable
+impersonal|personal
+impersonally|personally
+imperviable|pervious
+impervious|pervious
+impiety|piety
+impinge on|miss
+impious|pious
+impiously|piously
+impiousness|piety
+implacable|placable
+implausible|plausible
+implausibly|believably,credibly
+implement|exempt
+implemented|unenforced
+implicit|explicit
+implicitly|explicitly
+implode|explode
+impolite|polite
+impolitely|courteously,politely
+impoliteness|politeness
+impolitic|politic
+imponderable|ponderable
+import|export
+important|noncrucial,unimportant
+importation|export
+impossible|possible
+impossibly|possibly
+impotence|potency,potence,power,powerfulness
+impotency|potency,potence,power,powerfulness
+impotent|potent
+impoverish|enrich
+impractical|practical
+imprecate|bless
+imprecise|precise
+imprecisely|exactly,precisely
+imprecision|precision,preciseness
+improbable|probable
+improbably|believably,credibly
+improper|proper
+improperly|properly
+improperness|properness,propriety
+impropriety|properness,propriety
+improve|worsen
+improved|unimproved
+improvement|decline
+improvidence|providence
+improvident|provident
+imprudence|prudence
+imprudent|prudent
+imprudently|prudently
+impure|pure,clean
+impureness|purity
+impurity|purity
+in awe of|unawed
+in both ears|monaurally
+in camera|publicly
+in general|specifically
+in hand|out of hand
+in haste|unhurriedly
+in one ear|binaurally
+in private|publicly
+in public|privately
+in the main|specifically
+in vitro|in vivo
+in vivo|in vitro
+inability|ability
+inaccessible|accessible
+inaccuracy|accuracy
+inaccurate|accurate
+inaccurately|accurately
+inaction|activeness,activity,action
+inactivate|activate,mobilize
+inactivation|activation
+inactive|active,operational
+inactiveness|activeness,activity,action
+inactivity|activity,activeness,action
+inadequacy|adequacy,sufficiency
+inadequate|adequate
+inadequately|adequately
+inadmissible|admissible
+inadvertence|heedfulness,mindfulness
+inadvertency|heedfulness,mindfulness
+inadvisable|advisable
+inaesthetic|aesthetic
+inalienable|alienable
+inalterable|alterable
+inanimate|animate
+inaptitude|aptitude
+inaptness|appositeness,aptness
+inarticulate|articulate
+inattention|attention
+inattentive|attentive
+inaudibility|audibility
+inaudible|audible
+inaudibly|audibly
+inaugural|exaugural
+inauspicious|auspicious
+in-basket|out-basket
+inboard|outboard
+inbred|outbred
+incalculable|calculable
+incapability|capability,capableness,capability
+incapable|capable
+incapacitate|enable
+incapacity|capacity
+incaution|caution
+incautious|cautious
+incautiously|carefully,cautiously
+incertain|sure,certain
+incertitude|certainty
+incident|basic
+incidental|basic
+incisively|inexactly,imprecisely
+incivility|civility
+inclement|clement
+incline|indispose
+inclined|disinclined,horizontal,vertical
+include|exclude
+inclusion|exclusion
+inclusive|exclusive
+incognizance|cognizance
+incognizant|aware
+incoherence|coherence
+incoherency|coherence
+incoherent|coherent
+incoherently|coherently
+income|outgo
+incoming|outgoing
+incommodious|commodious
+incommutable|commutable
+incomparable|comparable
+incomparably|comparably
+incompatible|synergistic,compatible,congenial
+incompatibly|compatibly
+incompetence|competence
+incompetency|competence
+incompetent|competent
+incomplete|complete
+inconclusive|conclusive
+incongruent|congruent
+incongruity|congruity
+incongruous|congruous
+inconsistent|consistent
+inconsolable|consolable
+inconstancy|constancy
+inconstant|constant
+incontinent|continent
+inconvenient|convenient
+incorporeal|corporeal
+incorrect|right,correct
+incorrectly|right,correctly
+incorrigible|corrigible
+incorrupt|corrupt
+incorruption|corruptness
+increase|decrease,decrement,decrease
+increased|decreased
+increasing|decreasing
+incredible|credible
+incredibly|believably,credibly
+incredulous|credulous
+increment|decrement,decrease,decrease
+inculpative|exculpatory
+inculpatory|exculpatory
+incurability|curableness,curability
+incurable|curable
+incurious|curious
+indecency|decency
+indecent|decent
+indecently|decently
+indecision|decision,decisiveness
+indecisive|decisive
+indecisively|decisively
+indecorous|decorous
+indecorously|decorously
+indecorum|decorousness,decorum
+indefeasible|defeasible
+indefinite|definite
+indehiscent|dehiscent
+indelicate|decorous
+independent|dependent
+indigestible|digestible
+indirect|direct,lineal
+indirectly|directly
+indirectness|directness
+indiscipline|discipline
+indiscreet|discreet
+indiscreetly|discreetly
+indispose|dispose,qualify
+indissoluble|soluble
+indistinct|distinct
+individual|common
+indivisible|divisible
+indoor|outdoor
+indoors|outdoors,outside
+induced|spontaneous
+inductee|volunteer
+inductive|deductive
+indurate|soften
+inebriated|sober
+inebriation|soberness
+inebriety|soberness
+inedible|edible
+ineffective|effective
+ineffectual|effective
+inefficacy|efficacy
+inefficiency|efficiency
+inefficient|efficient
+inelastic|elastic
+inelasticity|elasticity
+inelegance|elegance
+inelegant|elegant
+inelegantly|elegantly
+ineligible|eligible
+ineloquently|articulately,eloquently
+ineptitude|worth
+ineptness|suitableness,suitability
+inequality|equality
+inequitable|equitable
+inequitably|equitably
+inequity|equity,fairness
+ineradicable|eradicable
+inerrancy|errancy
+inertia|activeness
+inessential|essential
+inevitable|evitable
+inexact|exact
+inexactitude|exactness
+inexactly|exactly,precisely
+inexactness|exactness
+inexcusable|excusable
+inexcusably|justifiably,forgivably,pardonably,excusably
+inexpedience|expediency,expedience
+inexpediency|expediency,expedience
+inexpedient|expedient
+inexpensive|expensive
+inexperience|experience
+inexperient|experienced
+inexplicable|explicable
+inexplicit|explicit
+inextensible|extensile
+inextricable|extricable
+infallible|fallible
+infamy|fame
+infect|disinfect
+infected|antiseptic
+infelicitous|felicitous
+infelicity|felicity
+inferior|superior,adscript,superscript,superscript
+inferiority|high quality,superiority
+infernal|supernal
+inferno|Heaven
+infertile|fertile
+infertility|fertility
+infidelity|faithfulness,fidelity
+infield|outfield
+infinite|finite
+infinitely|finitely
+infiniteness|finiteness
+infinitude|finiteness
+inflate|deflate
+inflated|deflated
+inflation|deflation,deflation,disinflation
+inflected|uninflected
+inflexible|flexible
+inflexibly|flexibly
+inflow|efflux,outflow
+influx|efflux,outflow
+informal|formal
+informality|formality
+informally|formally
+informed|uninformed
+infract|keep
+infrequent|frequent
+infrequently|frequently
+ingest|abstain
+inglorious|glorious
+ingratitude|gratitude
+ingress|emersion,egress
+inhabited|uninhabited
+inhale|exhale
+inharmonious|harmonious
+inhibited|uninhibited
+inhibitor|activator
+inhospitable|hospitable
+inhospitably|hospitably
+inhumane|humane
+inhumanely|humanely
+inhumaneness|humaneness
+inhumanity|humaneness
+inhumed|unburied
+initiate|uninitiate
+injectable|uninjectable
+injured|uninjured
+injustice|justice
+inkiness|white
+inland|coastal
+inmarriage|exogamy
+inmate|outpatient
+innate|conditioned
+inner|outer
+innocence|guilt
+innocent|guilty
+innocuous|noxious
+innumerate|numerate
+inodorous|odorous
+inoffensive|dysphemistic,offensive,unsavory
+inoperable|operable
+inoperative|operative
+inopportune|opportune
+inorganic|organic
+inpatient|outpatient
+inquiring|uninquiring
+inquiry|answer
+insalubrity|salubrity
+insane|sane
+insanely|sanely
+insanitary|sanitary
+insanity|sanity
+insatiable|satiate
+insatiate|satiate
+inscribe|decode
+insecure|secure
+insecurely|securely
+insecureness|secureness
+insecurity|security
+insensate|sentient
+insensible|sensible
+insensitive|sensitive
+insentience|sentience
+insentient|sentient
+inseparably|separably
+inshore|offshore
+inside|outside,outdoors,outside,outwardly
+insincere|sincere
+insincerely|sincerely
+insincerity|sincerity
+insobriety|soberness
+insolubility|solubility,solubility,solvability
+insoluble|soluble
+insolvency|solvency
+insolvent|solvent
+insomnia|hypersomnia
+inspan|outspan
+inspire|exhale
+inspiring|uninspiring
+inspissate|thin
+instability|stability,balance,stableness,stability
+instrumental|vocal
+insufficient|sufficient
+insulator|conductor
+insured|uninsured
+intangible|tangible
+integrate|segregate
+integrated|segregated
+integrating|segregation
+integration|segregation
+intellectual|emotional
+intelligence|stupidity
+intemperance|temperance
+intemperate|temperate
+intended|unintended
+intense|mild
+intensify|de-escalate
+intensifying|moderating
+intensity|softness
+intensive|extensive
+intentional|undesigned
+interactive|antagonistic
+interdict|allow,permit
+interest|bore
+interior|exterior,outside
+interlace|untwine
+intermediate|first,last
+internal|external
+internally|externally
+interred|unburied
+interstate|intrastate
+intertwine|untwine
+interweave|unweave
+intestate|testate
+intolerable|tolerable
+intolerably|tolerably,acceptably
+intolerance|tolerance
+intolerant|tolerant
+intolerantly|tolerantly
+intoxicate|depress
+intoxicated|sober
+intoxication|soberness
+intra vires|ultra vires
+intractable|tractable
+intramural|extramural
+intransitive|transitive
+intraspecies|interspecies
+intrastate|interstate
+in-tray|out-basket
+intrepidly|fearfully
+intrinsic|extrinsic
+intrinsical|extrinsic
+intromit|reject
+intron|exon
+introversion|ambiversion,extraversion
+introversive|extroversive,ambiversive
+introvert|extrovert
+introvertive|extroversive,ambiversive
+intrusive|unintrusive,protrusive,extrusive
+inutility|usefulness,utility
+invalid|valid
+invalidate|validate
+invariable|variable
+invariance|variableness,variability
+invasive|confined,noninvasive
+inverse|direct
+invertebrate|vertebrate
+invest|divest
+invigorate|deaden
+inviolable|violable
+invisibility|visibility
+invisible|conspicuous,visible
+invisibly|visibly
+inviting|uninviting
+involuntary|voluntary
+involve|obviate
+involved|uninvolved
+invulnerable|vulnerable
+inward|outward
+inwardly|outwardly
+inwardness|outwardness
+inwards|outward
+iodinate|de-iodinate
+ionate|de-ionate
+ionic|nonionic
+ionised|nonionized
+ionized|nonionized
+ironed|unironed
+irrational|rational
+irrationally|rationally
+irreality|reality
+irreducible|reducible
+irregular|regular
+irregularity|regularity
+irregularly|regularly
+irrelevance|relevance
+irrelevancy|relevance
+irrelevant|relevant
+irrelevantly|relevantly
+irreligious|religious
+irremediable|remediable
+irremovable|removable
+irreparable|reparable
+irresistible|resistible
+irresolute|resolute
+irresolutely|resolutely
+irreverence|reverence
+irreverent|reverent
+irreverently|reverently
+irreversible|reversible
+irrevocable|revocable
+irrevokable|revocable
+irritate|soothe
+isometric|isotonic
+isosmotic|hypertonic,hypotonic
+isotonic|isometric,hypertonic,hypotonic
+isotropic|anisotropic
+isotropous|anisotropic
+isotropy|anisotropy
+issue|recall
+jade|refresh
+jawed|jawless
+jawless|jawed
+jejunely|maturely
+jibe|disagree
+join|disjoin
+joint|separate
+jointure|disunion
+jolting|smooth
+jolty|smooth
+joyful|sorrowful
+joyfully|joylessly
+joyfulness|sorrow
+joyless|joyous
+joylessly|joyfully
+joyous|joyless
+joyously|joylessly
+joyousness|sorrow
+jubilantly|unhappily
+juiceless|juicy
+juicer|nondrinker
+juicy|juiceless
+jump on|hop out
+jumpy|smooth
+junior|senior
+just|unjust,inequitable,unfair
+justice|injustice
+justifiedly|unjustly
+justify|blame
+justly|unjustly
+justness|injustice
+juvenile|adult
+kainogenesis|palingenesis
+katabatic|anabatic
+katabolic|anabolic
+katabolism|anabolism
+katamorphism|anamorphism
+keep down|vomit
+keep mum|open up
+keep out|admit
+keep quiet|talk
+keep|break,discontinue,lose
+kept|broken
+kern|kern
+keyed|keyless
+keyless|keyed
+kick|cheer
+kickoff|middle
+kind|unkind
+kindly|unkindly
+kindness|unkindness
+king|queen
+kip down|turn out,get up
+knock|praise
+knot|unknot,unravel,unravel
+know|ignore
+knowable|unknowable
+knowingly|unknowingly,unwittingly
+known|unknown
+k'ung futzu|dullness
+kvetch|cheer
+labeled|unlabeled
+labelled|unlabeled
+lace|untwine
+laced|unlaced
+lack|have
+lactate|bottlefeed
+lactating|dry
+lady|nobleman,Lord
+laity|clergy
+lamented|unlamented
+landed|landless
+landless|landed
+larboard|starboard
+large|little,small
+largeness|littleness,smallness
+lash|unlash
+last|intermediate,first
+lasting|impermanent,caducous
+late|early,middle,early
+lateness|earliness
+later|early
+latter|former,former
+launch|abolish
+laureled|unlaureled
+laurelled|unlaureled
+laurels|dishonor
+lawful|unlawful
+lawfully|unlawfully,illicitly,lawlessly
+lawfulness|unlawfulness
+lawlessly|lawfully
+laxation|tightening
+laxative|costive
+lay claim|forfeit
+lay off|continue
+layman|clergyman
+layperson|clergyman
+laze|work
+lead astray|undeceive
+lead|deficit,follow
+leaded|unleaded
+leader|follower
+leading|following
+leadless|leaded
+leafless|leafy
+leafy|leafless
+leaky|tight
+lean|rich
+leanness|fatness
+leased|unchartered
+least|most
+leave off|include
+leave office|take office
+leave out|include,attend to
+leave|arrive,disinherit,enter
+leavened|unleavened
+leeward|windward,downwind,windward
+left|center,right,right
+left-handed|ambidextrous
+legal age|minority
+legal|illegal
+legalise|criminalise,criminalize,outlaw
+legality|illegality
+legalize|criminalise,criminalize,outlaw
+legally|unlawfully
+legato|staccato
+legged|legless
+legibility|illegibility
+legible|illegible
+legibly|illegibly
+legitimacy|illegitimacy
+legitimate|illegitimate,criminalise,criminalize,outlaw
+legitimately|illicitly,lawlessly
+legitimatise|criminalise,criminalize,outlaw
+legitimatize|criminalise,criminalize,outlaw
+legitimise|criminalise,criminalize,outlaw
+legitimize|criminalise,criminalize,outlaw
+legless|legged
+lend oneself|defy
+lend|borrow
+lender|borrower
+lengthen|shorten
+lengthways|crosswise
+lengthwise|crosswise
+lentic|lotic
+leptorhine|catarrhine,platyrrhine
+leptorrhine|catarrhine,platyrrhine
+leptorrhinic|catarrhine,platyrrhine
+less than|more than
+less|more
+lessen|increase
+lessening|increase
+lesser|greater
+let down|raise
+let go of|hold
+let go|hold
+let in|exclude,reject
+let out|take in
+lethargic|energetic
+level|raise
+levitation|gravitation
+levity|gravity
+liability|asset
+liberalness|illiberality
+liberate|confine
+liberator|captor
+licence|decertify
+license|decertify
+licit|illicit
+licitly|illicitly,lawlessly
+licitness|illicitness
+licking|victory
+lidded|lidless
+lidless|lidded
+lie down|arise
+lifelessness|animateness,motion
+lift up|depress
+lift|lower,fall
+light up|overcast
+light|dark,heavy,extinguish
+light-duty|heavy-duty
+lighted|unlighted
+lighten up|darken,weigh down
+lighten|darken,weigh down
+light-footed|heavy-footed
+light-haired|brunet
+lighting|dark
+lightly|heavily,thickly
+lightness|darkness,heaviness
+like|unalike,unlike,dislike
+liked|disliked
+likelihood|unlikeliness,unlikelihood
+likeliness|unlikeliness,unlikelihood
+likely|unlikely,improbable
+likeness|unlikeness
+liking|dislike
+limbed|limbless
+limbless|limbed
+limited|unlimited,local
+limitless|limited
+limpidity|unclearness,obscurity
+line up|skew
+lineal|collateral
+linear|nonlinear,digital,planar,cubic
+lined|unlined
+linger|rush
+link up|dissociate,disconnect
+link|dissociate,disconnect
+lipless|lipped
+lipped|lipless
+liquid|gaseous,solid,unmelted
+liquified|unmelted
+listed|unlisted
+literacy|illiteracy
+literal|figurative
+literate|illiterate
+little girl|male child
+little|much,large
+littleness|bigness,largeness
+livable|unlivable
+live birth|stillbirth
+live in|live out
+live out|live in
+live|dead,recorded
+liveable|unlivable
+live-bearing|oviparous
+lively|dull
+liven up|deaden
+liven|deaden
+liveried|unliveried
+living|dead
+loaded|unloaded
+loading|unloading
+loamless|loamy
+loamy|loamless
+loan|borrow
+loaner|borrower
+local|general,national,express
+location|studio
+lock|unlock,disengage,unlock
+lodge|dislodge
+loftiness|lowness
+log in|log out
+log off|log in
+log on|log out
+log out|log in
+log z's|wake
+logical|incoherent,illogical
+logicality|illogicality
+logically|illogically
+logicalness|illogicality
+log-in|log out
+long suit|weak point
+long|short,unretentive
+longanimity|impatience
+longness|shortness
+look down on|admire
+look up to|look down on
+look|back
+loop|uncoil
+loose|affixed,confine,tight,stiffen,compact
+loosely|narrowly
+loosen up|tense,strain,tense,stuff
+loosen|stiffen
+looseness|fixedness,tightness
+loosening|tightening
+lord|noblewoman,Lady
+lose weight|gain
+lose|gain,win,find,keep,profit,break even
+loser|winner,achiever
+losings|winnings
+loss|gain
+losses|winnings
+lossless|lossy
+lossy|lossless
+lost|saved,found
+lotic|lentic
+loud|soft,piano,softly
+louden|quieten
+loudly|piano,softly
+loudness|softness
+lovable|hateful
+love|hate
+loveable|hateful
+loved|unloved
+loving|unloving
+low pitch|high pitch
+low quality|high quality,superiority
+low relief|high relief
+low spirits|high
+low status|high status
+low tide|high tide
+low water|high tide
+lowborn|noble
+low-class|middle-class,upper-class
+lower limit|maximum
+lower|raise
+lowercase|uppercase
+lower-class|middle-class,upper-class
+lowered|raised
+lowland|upland,highland
+low-level|dominant
+lowliness|high status
+lowness|highness,high status
+low-pitched|high
+low-rise|high-rise
+low-tech|high-tech
+loyal|disloyal,unpatriotic
+loyally|disloyally
+loyalty|disloyalty
+lucidity|unclearness,obscurity
+lucidness|unclearness,obscurity
+luckily|unluckily
+luckiness|bad luck,misfortune
+luckless|lucky
+lucky|unlucky
+lucubrate|contract
+lull|agitate
+lumper|splitter
+lyric|dramatic
+machine wash|handwash
+machine-made|handmade
+machine-wash|handwash
+macroscopic|microscopic
+made|unmade
+madly|sanely
+magnetic|repulsive,geographic,nonmagnetic
+magnetise|demagnetise,demagnetize
+magnetize|demagnetise,demagnetize
+magnify|reduce,understate
+main|dependent
+major|minor
+majority|minority
+majuscule|minuscule,lowercase
+make clean|dirty
+make full|empty
+make headway|fall back
+make it|fail,succumb
+make peace|war
+make relaxed|strain,tense
+make|unmake,break
+maladaptive|adaptive
+maladjusted|adjusted
+maladroit|adroit
+maladroitly|adroitly
+malady|wellness
+malapropos|apropos,opportunely
+male child|girl,female child
+male monarch|queen
+male parent|mother
+male person|female
+male|female,androgynous,female
+maledict|bless
+maleficence|beneficence
+maleficent|beneficent
+maleness|femaleness
+malevolence|benevolence
+malfunction|function
+malicious|unmalicious
+malign|benign
+malignance|benignancy,benignity
+malignancy|benignancy,benignity
+malignant|benign
+malignity|benevolence,benignancy,benignity
+malnourished|nourished
+malodorous|fragrant
+malodourous|fragrant
+malted|unmalted
+maltreated|unabused
+manage|fail
+manful|unmanly
+manfully|unmanfully
+manipulable|intractable
+manlike|unmanly
+manly|unmanly,unmanfully
+manned|unmanned
+manual|automatic
+many-sided|unilateral
+march on|recede
+marginality|centrality
+mark down|mark up
+mark up|mark down
+mark|ignore
+marked|unmarked
+married man|wife
+married|unmarried
+masculine|feminine,feminine,neuter
+masculinity|femaleness,femininity
+mask|unmask
+masochist|sadist
+masochistic|sadistic
+match|disagree
+matched|mismatched
+mated|unmated
+material|incorporeal,immaterial
+maternal|paternal,filial
+mathematical|verbal
+matriarchal|patriarchal
+mature|immature,unfledged,green
+maturely|immaturely
+matureness|immaturity
+maturity|immaturity
+maxi|mini,midi
+maximal|minimum,minimal
+maximally|minimally
+maximise|minimise,minimize
+maximize|minimise,minimize
+maximum|minimum,minimal,minimum
+meager|ample
+meagerly|ample,amply
+meagre|ample
+meagrely|amply
+meaningful|meaningless
+meaningless|meaningful
+meanspirited|generous
+measured|unmeasured
+meatless|meaty
+meaty|meatless
+mediacy|immediacy
+mediate|immediate
+mediateness|immediacy
+medical|surgical
+medulla|cortex
+meet|diverge
+melanise|whiten
+melanize|whiten
+meliorate|worsen
+melioration|decline
+melodic|unmelodious
+melodious|unmelodious,tuneless
+melt off|gain
+melted|unmelted
+member|nonmember
+membered|memberless
+memberless|membered
+memorably|unmemorably
+mend|break
+mendaciously|truthfully
+mendacity|veracity
+mensurable|immeasurable
+mental|physical
+merciful|merciless
+merciless|merciful
+merge|disunify
+merit|demerit
+merited|unmerited
+merrily|unhappily
+mesh|disengage
+mesial|distal
+mesic|xeric,hydric
+mesomorphic|ectomorphic,endomorphic
+messiness|tidiness
+metabolic|ametabolic
+metabolous|ametabolic
+metal|nonmetallic
+metallic|nonmetallic
+metier|weak point
+microscopic|macroscopic
+middle|late,early,beginning
+middle-class|upper-class,lower-class
+middling|immoderately,unreasonably
+midi|maxi,mini
+mild|intense
+militarise|demilitarise,demilitarize
+militarize|demilitarise,demilitarize
+military man|civilian
+military|civilian,unmilitary
+mind|forget
+mindful|unmindful
+mindfully|unmindfully
+mindfulness|heedlessness
+mindless|mindful
+mined|unmined
+mineral|animal,vegetable
+mini|midi,maxi
+minify|increase
+minimal|maximum,maximal
+minimally|maximally
+minimise|maximise,maximize,overstate
+minimize|maximise,maximize,overstate
+minimum|maximum,maximal,maximum
+minor|major,major
+minority|majority
+minus|plus
+minuscular|majuscule
+minuscule|majuscule,uppercase
+mirthfully|unhappily
+misbehave|behave
+miscarriage|live birth
+miscarry|succeed
+mischief|beneficence
+miscible|immiscible
+misconduct|behave
+misdemean|behave
+misfortune|good luck,good fortune
+misfunction|function
+mismatched|matched
+misogynism|philogyny
+misogyny|philogyny
+miss|attend to,attend,hit,have
+mistreated|unabused
+mistrust|trust,trust
+misused|used
+mitigated|unmitigated
+mixable|immiscible
+mobile|immobile,stabile
+mobilise|demobilize,demobilise,demobilize
+mobility|immobility
+mobilize|demobilize,demobilise,demobilize
+moderate|immoderate
+moderately|immoderately,unreasonably
+modern font|old style
+modern|nonmodern,old style
+modest|immodest
+modestly|immodestly
+modestness|immodesty
+modesty|immodesty
+modifiable|unmodifiable
+modified|unmodified
+modulated|unmodulated
+moisturise|dehumidify
+moisturize|dehumidify
+molar|molecular
+molecular|molar
+monaural|binaural
+monaurally|binaurally
+monecious|dioecious
+moneyed|moneyless
+moneyless|moneyed
+monied|moneyless
+monism|pluralism
+monoclinic|triclinic
+monoclinous|diclinous
+monody|polyphony
+monoecious|dioecious
+monogamous|polygamous
+monoicous|dioecious
+mononuclear|binucleate,trinucleate
+mononucleate|binucleate,trinucleate
+monophonic|polyphonic
+monophony|polyphony
+monoploid|diploid,polyploid
+monosemy|polysemy
+monotheism|polytheism
+monovalent|polyvalent
+monovular|fraternal
+moonless|moonlit
+moonlit|moonless
+moony|moonless
+moral|immoral,amoral
+morality|immorality
+morally|immorally
+more than|less,less than
+more|fewer,less
+morning|sunset
+mortal sin|venial sin
+mortal|immortal
+mortality|immortality
+most|fewest,least
+mother|male parent,father
+motility|immotility
+motivated|unmotivated
+motor mower|hand mower
+motored|unmotorized
+motorial|afferent
+motorised|unmotorized
+motorized|unmotorized
+motorless|motorized
+mount up|hop out
+mount|wane,hop out
+mouthless|stomatous
+movability|immovability
+movableness|immovability
+move in|move out,pull out
+move into|exit
+move on|recede
+move out|move in
+move up|fall
+move|stand still,stay,refrain,rest
+moved|unmoved
+moving|unmoving,nonmoving,still
+mown|unmown
+much|little
+muliebrity|masculinity
+multiform|uniform
+multilane|single-lane
+multilateral|unilateral
+multilingual|monolingual
+multiparous|uniparous
+multiple|single
+multiply|singly,divide
+multivalent|monovalent,univalent,bivalent
+mundaneness|naivete
+mundanity|naivete
+muscular|ectomorphic,endomorphic
+mushroom|toadstool
+musical|unmusical,unmelodious
+musically|unmusically
+muster in|discharge
+muster out|enlist
+mutability|immutability
+mutable|immutable
+mutableness|immutability
+muzzle|unmuzzle
+myopia|hyperopia
+myopic|farsighted
+mystify|demystify
+nadir|zenith
+nakedness|closeness
+narrow down|diversify
+narrow|wide,diversify,widen
+narrowing|widening
+narrowly|broadly
+narrowness|wideness
+nascence|death
+nascency|death
+nascent|dying
+nastiness|niceness
+nasty|nice
+national|local
+native|nonnative,foreign,adopted
+nativeness|foreignness
+nativity|death
+natural|artificial,unnatural,sharp,flat
+naturally|unnaturally
+nazify|denazify
+neap tide|springtide
+neap|springtide
+nearness|farness
+nearsighted|farsighted
+neatness|untidiness
+necessary|unnecessary,inessential
+necessitate|obviate
+necessity|inessential
+necked|neckless
+neckless|necked
+need|obviate
+ne'er|ever
+negate|affirm
+negative|neutral,positive,affirmative,positive
+negativeness|positiveness,positivity
+negativism|positiveness,positivity
+negativity|positiveness,positivity
+neglect|attend to
+negligent|diligent
+negociate|fail
+nephew|niece
+nett|gross
+neurotic|unneurotic
+neuter|masculine,feminine
+neutral|positive,negative
+never|ever
+newness|oldness
+nice|nasty
+niceness|nastiness
+nidicolous|nidifugous
+nidifugous|nidicolous
+niece|nephew
+nigh|far
+night game|day game
+night school|day school
+night|day
+nighttime|day
+nigrify|whiten
+nitrify|denitrify
+no longer|still
+no more|still
+noble|lowborn,ignoble,noblewoman,Lady
+nobleman|noblewoman,Lady
+noblewoman|nobleman,Lord
+nocturnal|diurnal
+nod off|wake up
+node|antinode
+noisily|quietly
+noisy|quiet
+nominal|real
+nominative|oblique
+nomothetic|idiographic
+nonabsorbent|absorbent
+nonaddictive|addictive
+nonadhesive|adhesive
+nonadsorbent|adsorbent
+nonage|majority
+nonaged|major
+nonalcoholic|alcoholic
+nonaligned|aligned
+nonalignment|alignment
+nonalinement|alignment
+nonarbitrary|arbitrary
+nonarboreal|arboreal
+nonbearing|bearing
+nonbeing|being
+noncausal|causative
+noncausative|causative
+noncellular|cellular
+noncitizen|citizen
+noncivilised|civilized
+noncivilized|civilized
+nonclassical|classical
+noncolumned|columned
+noncompliant|compliant
+nonconductor|conductor
+noncritical|critical
+noncrucial|crucial,critical
+noncurrent|current
+noncyclic|cyclic
+noncyclical|cyclic
+nondrinker|drinker
+nondriver|driver
+nonechoic|echoic
+nonentity|existence
+nonessential|essential
+nonexempt|exempt,nontaxable
+nonexistence|existence
+nonexistent|existent
+nonexplosive|explosive
+nonextant|extant
+nonextensile|extensile
+nonfat|fatty
+nonfatal|fatal
+nonfictional|fictional
+nonfinancial|financial
+non-finite|finite
+nonfissile|fissile
+nonflowering|flowering
+nonharmonic|harmonic
+nonheritable|inheritable
+nonhuman|human
+nonimitative|imitative
+nonindulgent|indulgent
+noninvasive|invasive
+nonionic|ionized,ionic
+nonionised|ionized
+nonionized|ionized
+nonlinear|linear
+nonliteral|literal
+nonliving|animate
+non-living|animate
+nonmagnetic|magnetic
+nonmaterial|material
+nonmember|member
+nonmetal|metallic
+nonmetallic|metallic
+nonmigratory|migratory
+nonmilitary|military
+non-miscible|miscible
+nonmodern|modern
+nonmonotonic|monotonic
+nonmoving|moving
+nonmusical|musical
+nonnative|native
+nonpartisan|partisan
+nonpartizan|partisan
+nonpasserine|passerine
+nonpayment|payment
+nonperiodic|periodic
+nonpolar|ionic
+nonpolitical|political
+nonporous|porous
+nonpregnant|pregnant
+nonracial|racial
+nonrandom|random
+nonremittal|payment
+nonrenewable|renewable
+nonresident|resident
+nonresonant|reverberant
+nonrigid|rigid
+nonruminant|ruminant
+nonsectarian|sectarian
+nonsexual|sexual
+nonslippery|slippery
+nonsmoker|smoker
+nonspatial|spatial
+nonspeaking|speaking
+nonspecific|specific
+nonspherical|spherical
+nonstandard|standard
+nonstarter|achiever
+nonsteroidal|steroidal
+nonsurgical|surgical
+nonsweet|sugary
+nonsyllabic|syllabic
+nontaxable|taxable
+nontechnical|technical
+nonthermal|thermal
+nontoxic|toxic
+nonunion|union
+nonviolent|violent
+nonviolently|violently
+nonvolatile|volatile
+nonvoluntary|voluntary
+nonwashable|washable
+nonwoody|woody
+nonworker|worker
+normal|abnormal,paranormal
+normalcy|abnormality
+normality|abnormality
+normally|remarkably
+normative|descriptive
+normotensive|hypertensive,hypotensive
+north|south
+northern|southern
+nosed|noseless
+noseless|nosed
+not due|due
+not suitably|suitably
+not yet|already
+note|ignore
+notice|ignore
+noticeable|unobtrusive
+noticed|unnoticed
+nowness|futurity,pastness
+noxious|innocuous
+noxiously|harmlessly
+nullify|validate
+numerate|innumerate
+numerical|verbal
+nurse|bottlefeed
+o.k.|disapprove
+obedient|disobedient
+obey|disobey
+obfuscate|clarify
+objectify|personalise,personalize
+objective|subjective
+oblate|prolate
+obligate|facultative
+obligated|unobligated
+obligatorily|optionally
+obligatory|optional
+oblige|disoblige
+oblique case|nominative
+oblique|parallel,nominative
+obscureness|clarity
+obscurity|clarity,prominence
+observe|break,disrespect
+obstinate|docile
+obstruct|free
+obtrusive|unobtrusive
+obturate|free
+obtuse|acute
+obtuseness|acuteness
+obverse|reverse
+obviate|necessitate
+obvious|unobvious
+occlude|free
+occupant|nonresident
+occupied|unoccupied
+occupier|nonresident
+odorize|deodourise,deodorize
+odorless|odorous
+odorous|odorless
+odourise|deodourise,deodorize
+odourless|odorous
+oestrus|anestrus
+of course|unnaturally
+of import|unimportant
+offence|defence,defense
+offend|keep
+offending|unoffending
+offense|defence,defense
+offensive|inoffensive,defensive,euphemistic,savory
+offensively|defensively
+official|unofficial
+off-line|on-line
+off-peak|peak
+offsaddle|saddle
+off-season|high season
+offset|middle
+offshore|inshore,onshore
+offside|onside
+offsides|onside
+off-site|on-site
+offstage|onstage
+off-street|on-street
+often|rarely,infrequently
+oftentimes|rarely,infrequently
+ofttimes|rarely,infrequently
+oiled|unoiled
+okay|disapprove
+old style|modern
+oldness|youngness,newness
+oleophilic|oleophobic
+oleophobic|oleophilic
+omit|include,attend to
+omnivorous|carnivorous,herbivorous
+on purpose|accidentally
+one-piece|two-piece,three-piece
+one-sided|reversible,multilateral
+one-year|biennial,perennial
+on-line|off-line
+onomatopoeic|nonechoic
+onshore|offshore
+onside|offside
+on-site|off-site
+onstage|offstage
+on-street|off-street
+onymous|anonymous
+opacity|clarity,transparency
+opaque|clear
+opaqueness|clarity
+open chain|closed chain
+open up|close,close up
+open|closed,covert,unreceptive,shut,close,fold
+open-chain|cyclic
+opened|closed
+opening|closing
+openness|closeness
+operable|inoperable
+operate|disengage,malfunction
+operative|inoperative,medical
+opponent|agonist
+opportune|inopportune
+opposable|unopposable
+opposed|unopposed
+opposer|agonist
+opposite|alternate,synonym
+opprobrium|fame
+optimism|pessimism
+optimist|pessimist
+optimistic|pessimistic
+optional|obligatory
+orad|aborad
+oral|anal,aboral
+order|disorder,disorder,deregulate
+ordered|disarranged,incoherent,disordered
+orderliness|disorder
+orderly|incoherent,disorderly
+ordinal|cardinal
+ordinarily|remarkably
+organic|functional,inorganic
+organise|disorganise,disorganize
+organize|disorganise,disorganize
+organized|unorganized
+orient|disorient
+orientate|disorient
+orientated|unoriented
+orientating|disorienting
+oriented|unoriented
+orienting|disorienting
+original sin|actual sin
+original|unoriginal
+originative|uncreative
+orthodox|unorthodox
+orthodoxy|unorthodoxy
+other|same
+out of doors|indoors,inside
+out of hand|in hand
+out-basket|in-basket
+outbid|underbid
+outboard|inboard
+outbred|inbred
+outdoor|indoor
+outdoors|indoors,inside
+outer|inner
+outfield|infield
+outflow|influx,inflow
+outgo|income
+outgoing|incoming
+outlander|citizen
+outlaw|legalize
+outlay|income
+out-of-door|indoor
+outpatient|inpatient
+outset|middle,end
+outside|inside,indoors,inside,indoor
+outspan|inspan
+out-tray|in-basket
+outward|inward
+outwardly|inwardly
+outwardness|inwardness
+outwards|inward
+outwear|refresh
+overact|underact
+overarm|underhand
+overbid|underbid
+overcast|clear up
+overcharge|undercharge
+overdraw|understate
+overdress|dress down
+overestimate|undervalue
+overexpose|underexpose
+overhand|underhand
+overhanded|underhand
+overhead|surface,subsurface
+overleap|attend to
+overlook|attend to
+overpay|underpay
+overplay|underact
+overshoot|undershoot
+overspend|underspend
+overstate|understate
+overstock|understock
+overt|covert
+overtly|covertly
+overvalue|undervalue
+oviparous|viviparous
+ovulation|anovulation
+owed|undue
+owned|unowned
+ownerless|owned
+oxidate|deoxidise,deoxidize
+oxidise|deoxidise,deoxidize
+oxidize|deoxidise,deoxidize
+pack|unpack
+package|hardware,unbox
+packaged|unpackaged
+paid|unpaid
+pain|pleasure
+painful|painless
+painfully|painlessly
+painfulness|pleasure
+painless|painful
+painlessly|painfully
+paintable|unpaintable
+painted|unpainted
+paired|alternate
+palatable|unpalatable
+palatably|unpalatably
+palingenesis|cenogenesis
+palingenetic|cenogenetic
+palpable|impalpable
+paper profit|paper loss
+paradigmatic|syntagmatic
+parallel|oblique
+paranormal|sensory,normal
+parasite|host
+pardonable|unpardonable
+pardonably|unpardonably,unforgivably,inexcusably
+parent|child
+parental|filial
+parented|unparented
+parentless|parented
+part|wholly
+partial|impartial
+partiality|impartiality
+partially|wholly
+participate|drop out
+particular|universal,general,general
+partisan|nonpartisan
+partisanship|impartiality
+partizan|nonpartisan
+partly|wholly
+parttime|full-time
+part-time|full-time
+pass away|be born
+pass on|recede
+pass up|accept
+pass|running,failing,be born,fail
+passable|impassable
+passably|immoderately,unreasonably
+passing|failing,running
+passionate|passionless
+passionless|passionate
+passive|active
+passively|actively
+past times|future
+past|present,future,future
+pastness|presentness,futurity
+paternal|maternal,filial
+patience|impatience
+patient|impatient
+patiently|impatiently
+patriarchal|matriarchal
+patrician|plebeian,proletarian
+patriotic|unpatriotic
+patronise|boycott
+patronize|boycott
+patronless|patronized
+patterned|plain
+paved|unpaved
+pay cash|charge
+pay up|default
+payment|nonpayment
+peace|war
+peaceful|unpeaceful
+peacenik|hawk
+peach|keep quiet
+peak season|off-season
+peak|off-peak
+pedunculate|sessile
+peel|dress
+peeress|nobleman,Lord
+pellucidity|unclearness,obscurity
+pelt along|linger
+penalty|reward
+penitent|unrepentant,impenitent
+penitently|impenitently
+perdition|Heaven
+perennial|annual,biennial
+perfect|imperfect
+perfectly|imperfectly
+periapsis|apoapsis
+perigee|apogee
+perihelion|aphelion
+perijove|apojove
+perilune|apolune,aposelene
+perinatal|postnatal,prenatal
+periodic|aperiodic
+periodical|aperiodic
+peripheral|central
+peripherally|centrally
+peripteral|apteral
+periselene|apolune,aposelene
+perish|be born
+peristalsis|anastalsis
+perk up|de-energise,de-energize,sedate
+permanence|impermanence
+permanency|impermanence
+permanent|impermanent
+permanently|temporarily
+permeable|impermeable
+permissive|preventive,unpermissive
+permit|disallow,forbid,prevent
+perplex|simplify
+perplexed|unperplexed
+persistent|caducous
+personal|impersonal
+persuade|dissuade
+persuasion|dissuasion
+persuasive|dissuasive
+pervious|impervious
+pessimism|optimism
+pessimist|optimist
+pessimistic|optimistic
+petaled|apetalous
+petalled|apetalous
+petalless|petalous
+petalous|apetalous
+phanerogamae|Cryptogamia
+phase in|phase out
+phase out|phase in
+philogyny|misogyny
+phlegmy|dry
+physical|mental
+pianissimo|fortissimo
+piano|forte
+pick apart|praise
+pick at|flatter
+pick up|depress
+piece|disassemble
+piety|impiety
+pigeon-toed|splayfooted
+pilosity|hairlessness
+pious|impious
+piously|impiously
+piousness|impiety
+pipe down|louden
+pistillate|acarpelous
+placable|implacable
+place|divest
+placental|aplacental
+plain|cheer,fancy,patterned
+plaintiff|defendant
+planar|cubic,linear
+planned|unplanned
+planted|unplanted
+plantigrade|digitigrade
+platyrhine|catarrhine,leptorrhine
+platyrhinian|catarrhine,leptorrhine
+platyrrhine|catarrhine,leptorrhine
+platyrrhinic|catarrhine,leptorrhine
+plausible|implausible
+plausibly|incredibly
+play down|play up,foreground
+play up|play down,background
+play|tightness
+playable|unplayable
+playful|unplayful
+pleach|unbraid
+pleasance|pain
+pleasant|unpleasant
+pleasantly|disagreeably,unpleasantly
+please|displease
+pleased|displeased
+pleasing|displeasing
+pleasure|pain
+plebeian|proletarian,patrician
+pleurocarp|acrocarp
+ploughed|unplowed
+plowed|unplowed
+pluck|gutlessness,undercharge
+plucked|bowed
+pluckiness|gutlessness
+plucky|gutless
+plug in|unplug
+plume|undercharge
+plural form|singular
+plural|singular
+pluralism|monism
+plus|minus,liability
+pointed|pointless
+pointless|pointed
+polar|equatorial
+polished|unpolished
+polite|uncivil,impolite
+politely|impolitely
+politic|impolitic
+polygamous|monogamous
+polyphonic|monophonic
+polyphony|monophony
+polyploid|haploid,diploid
+polysemy|monosemy
+polytheism|monotheism
+polyvalent|monovalent
+poor people|rich,rich people
+poor shape|fitness
+poor|rich,rich,rich people
+poorly|well
+poorness|wealth
+pop in|pop out
+pop off|be born
+pop out|pop in
+popular|unpopular
+poriferous|nonporous
+porosity|solidity
+porous|nonporous
+porousness|solidity
+port|starboard
+portable|unportable
+posed|unposed
+positive|negative,neutral,negative
+positiveness|negativeness,negativity
+positivism|negativeness,negativity
+positivity|negativeness,negativity
+possible|impossible,actual
+possibly|impossibly
+postdate|predate
+posterior|anterior
+posteriority|anteriority,priority
+postmortal|antemortem
+postmortem|antemortem
+postnatal|prenatal,perinatal
+postnuptial|prenuptial
+postpartum|prenatal,perinatal
+postprandial|preprandial
+postulate|obviate
+postwar|prewar
+potable|undrinkable
+potence|impotence,impotency
+potency|impotence,impotency
+potent|impotent
+potential|actual
+potted|unpotted
+poverty|wealth
+power mower|hand mower
+power|inability
+powered|unpowered
+powerful|powerless
+powerless|powerful
+practical|impractical
+praise|criticize
+precede|succeed,follow,postdate
+preceding|succeeding,subsequent
+precise|imprecise
+precisely|inexactly,imprecisely
+preciseness|imprecision
+precision|imprecision
+precocial|altricial
+precocious|retarded
+predate|postdate
+predicative|attributive
+prefix|suffix
+pregnant|nonpregnant
+premarital|postnuptial
+premature|full-term
+prenatal|perinatal,postnatal
+prenominal|predicative
+prenuptial|postnuptial
+preparation|resolution
+prepared|unprepared
+presbyopic|nearsighted
+prescriptive|descriptive
+presence|absence
+present|absent,future,past
+presentness|futurity,pastness
+preserve|discontinue
+preserved|fresh,destroyed
+pressurise|depressurise,depressurize
+pressurize|depressurise,depressurize
+pretermit|attend to
+prettify|uglify
+preventative|permissive
+preventive|permissive
+prewar|postwar
+pride|humility
+pridefulness|humility
+priestlike|unpriestly
+priestly|unpriestly
+primarily|secondarily
+primary|secondary
+prink|dress down
+printable|unprintable
+prise|disesteem,disrespect
+private|public
+privately|publicly
+prix fixe|a la carte
+prize|disesteem,disrespect
+proactive|retroactive
+probable|improbable
+probably|incredibly
+procaryote|eukaryote
+procaryotic|eucaryotic,eukaryotic
+procedural|substantive
+proceed|discontinue
+processed|unprocessed,unrefined
+pro-choice|pro-life
+productive|unproductive,consumptive
+productively|unprofitably,fruitlessly
+profane|sacred
+professional|amateur
+profit|lose,break even
+profitable|unprofitable
+profitably|unprofitably,fruitlessly
+profits|losings
+profound|superficial
+profoundness|shallowness
+profundity|shallowness
+progress|recede,regress
+progressive|regressive,conservative
+prohibit|allow,permit
+prokaryote|eukaryote
+prokaryotic|eucaryotic,eukaryotic
+prolate|oblate
+proletarian|patrician,plebeian
+pro-life|pro-choice
+prolix|concise
+prominence|obscurity
+promote|demote
+promotion|demotion
+promptness|tardiness
+pronation|supination
+proper name|common noun
+proper noun|common noun
+proper|improper
+properly|improperly
+properness|improperness,impropriety
+propertyless|patrician,plebeian
+prophetic|unprophetic
+prophetical|unprophetic
+propriety|improperness,impropriety
+proscribe|allow,permit
+prosecute|defend
+prosecution|defense
+protected|unprotected
+protrusive|intrusive
+proud|humble
+prove|disprove
+proved|unproved
+proven|unproved
+provident|improvident
+provincial|cosmopolitan
+proximal|distal
+proximate|ultimate
+prudence|imprudence
+prudent|imprudent
+prudently|imprudently
+public|private
+publically|privately
+publicised|suppressed
+publicized|suppressed
+publicly|privately
+published|unpublished
+puke|keep down
+pull ahead|fall back
+pull down|raise
+pull in|repel,pull out
+pull off|fail
+pull out|pull in
+pull round|succumb
+pull through|succumb
+pull|repel,push
+punch in|punch out,clock out
+punch out|punch in,clock in
+punctual|unpunctual
+punctuality|tardiness
+punctureless|puncturable
+punished|unpunished
+purchase|sell
+pure|impure,unsaturated
+purebred|crossbred
+pureness|impurity
+purge|rehabilitate,keep down
+purifying|adulterating
+purity|impurity
+purposeful|purposeless
+purposeless|purposeful
+purposely|accidentally
+push back|attract
+push|pull
+put off|hearten
+put on|reduce
+put option|call option
+put out|bring to
+put to sleep|bring to
+put together|disassemble
+put under|bring to
+put up|level
+pyknic|mesomorphic,ectomorphic
+pyretic|antipyretic
+quadruped|biped,bipedal
+quadrupedal|biped,bipedal
+qualified|unqualified
+qualify|disqualify
+qualifying|failing
+quantitative|qualitative,syllabic,accentual
+quash|validate
+queen|male monarch,king
+quench|ignite
+query|answer
+question|answer
+quetch|cheer
+quicken|decelerate
+quickly|slowly
+quiesce|louden
+quiet down|louden
+quiet|active,sound,agitate,louden,noisy,unquiet,unquietly
+quieten|agitate,louden
+quietly|noisily,unquietly,loudly
+quit|stay,continue,enter,take office
+quotable|unquotable,unrepeatable
+race|linger
+racial|nonracial
+radical|cauline
+radiolucent|radiopaque
+radio-opaque|radiolucent
+radiopaque|radiolucent
+raggedness|smoothness
+raiment|undress
+rainy season|dry season
+raise|descent,level,lower,demote
+raised|lowered
+rally|demobilize
+random|nonrandom
+rapidly|slowly
+rarely|often
+rase|raise
+rational|irrational
+ratite bird|carinate
+ratite|carinate
+ravel out|ravel
+ravel|unknot,unravel,unravel,ravel
+ravish|disenchant
+rawness|completeness,experience
+raze|raise
+reactive|unreactive
+readability|illegibility
+readably|illegibly
+ready|unready
+ready-made|custom-made
+real|unreal,nominal
+realism|unreality
+realistic|unrealistic
+reality|unreality
+realness|unreality
+rear|front,head,level
+rearward|forward
+rearwards|forward
+reasonably|immoderately,unreasonably
+reassure|worry
+reassuring|unreassuring
+recall|forget,issue
+recede|advance,gain
+receive|say farewell
+received|nonstandard
+receptive|unreceptive
+receptor|effector
+recessive|dominant
+recollect|forget
+recollective|unretentive
+reconciled|unreconciled
+record|erase
+recorded|live
+recover|deteriorate
+recreate|dishearten
+rectifiable|irreparable
+rectify|falsify
+recto|verso
+recuperate|deteriorate
+recusant|conformist
+red ink|gain
+redress|wrong
+reduce|expand,gain,blow up,oxidize,oxidise
+reduced|increased
+reducible|irreducible
+reduction|increase
+reentrant|salient
+re-entrant|salient
+refined|unrefined
+reflected|unreflected
+refrain|consume
+refresh|tire
+refreshen|tire
+refuse|accept,lend oneself,allow,admit
+regain|lose
+regard|disesteem,disrespect
+regorge|keep down
+regress|progress
+regressive|progressive
+regretful|unregretful
+regrettably|luckily,fortunately
+regular|irregular,constipated
+regularise|deregulate
+regularize|deregulate
+regularly|irregularly
+regulate|deregulate
+regulated|unregulated
+regurgitate|keep down
+rehabilitate|purge
+reject|approve,accept,admit
+rejection|acceptance
+rejective|acceptive
+relapse|get well
+relate|dissociate
+related to|unrelated
+related|unrelated
+relative|absolute
+relax|stiffen,tense,strain,tense
+relaxed|tense
+release|confine,hold,freeze,block
+relegate|promote
+relent|stand
+relevance|irrelevance
+relevancy|irrelevance
+relevant|irrelevant
+reliable|undependable,unreliable
+reliably|unreliably,undependably
+relieve|enforce
+religious|irreligious
+relinquish|hold
+rely|mistrust,distrust
+remain firm|yield
+remain|change
+remember|forget
+remoteness|nearness
+removable|irremovable
+renewable|unrenewable
+renown|infamy
+rentable|unrentable
+repair|break
+reparable|irreparable
+repatriate|expatriate
+repeatable|unquotable,unrepeatable
+repel|attract
+repentant|unrepentant,impenitent
+repentantly|impenitently
+reported|unreported
+represent|prosecute
+reprobate|approbate
+repulse|attract
+repulsion|attraction
+repulsive|attractive
+reputation|disrepute
+repute|disrepute
+requested|unrequested
+require|obviate
+requirement|inessential
+requisite|inessential
+resent|wish
+resentful|unresentful
+reserved|unreserved
+resident|migratory,nonresident
+resign|take office
+resist|lend oneself,surrender
+resister|agonist
+resistible|irresistible
+resistless|resistible
+resolute|irresolute
+resolutely|indecisively,irresolutely
+resolution|preparation
+resolved|unsolved
+respect|disesteem,disrespect,disesteem,disrespect
+rest day|workday
+rest|be active,change
+rested|tired
+restore|break
+restrained|unrestrained
+restraint|unrestraint
+restrict|derestrict
+restricted|unrestricted
+retail|wholesale
+retard|accelerate
+retarded|precocious
+retch|keep down
+retentive|unretentive
+retire|turn out,get up,advance
+retired|safe
+retreating|advancing
+retrieve|forget
+retroactive|proactive
+retrograde|anterograde,direct,progress
+retrogress|progress
+retrorse|antrorse
+revalue|depreciate
+revealing|concealing
+reverence|irreverence
+reverend|layman
+reverent|irreverent
+reverently|irreverently
+reversal|affirmation
+reverse|forward,obverse
+revived|unrevived
+revocable|irrevocable
+revokable|irrevocable
+reward|penalty,dishonor
+rewarding|unrewarding
+rh-negative|rh-positive
+rh-positive|rh-negative
+rhymed|unrhymed
+rhymeless|rhymed
+rhyming|unrhymed
+ribbed|ribless
+ribless|ribbed
+rich people|poor,poor people
+rich|poor,poor,poor people,lean
+richly|meagerly
+ricketiness|steadiness
+rid of|necessitate
+ride|walk
+rifled|unrifled
+rig out|dress down
+rigged|unrigged
+right|left,center,wrongly,incorrectly,left,improperly,wrong,incorrect,wrongfulness,wrong,falsify
+righteous|unrighteous
+rightfulness|wrongfulness,wrong
+right-handed|left-handed,ambidextrous
+rightly|unjustly
+rightness|wrongness,wrongness
+rigid|nonrigid
+rigidity|flexibility
+rigidness|flexibility
+rimeless|rhymed
+riming|unrhymed
+rimless|rimmed
+rimmed|rimless
+ring|open chain
+ripe|green
+ripeness|greenness
+rise|sit down,lie down,turn in,go to bed,fall,wane,descent
+rising tide|ebbtide
+rising trot|sitting trot
+rising|falling,fall
+rivalry|cooperation
+road game|home game
+robust|frail
+rocky|smooth
+roll up|unfurl
+roll|unwind
+roly-poly|thin person
+romantic|classicist
+romanticism|classicism
+romanticist|classicist
+roofed|roofless
+roofless|roofed
+root|descendant
+rotor coil|stator
+rotor|stator
+rotten|fresh
+rough|smooth
+roughen|smooth
+roughness|smoothness
+round|square
+rounded|angular
+roundness|angularity
+rouse|calm
+rude|civil
+rudely|courteously,politely
+rudeness|courtesy
+rugged|delicate
+ruminant|nonruminant
+run into|miss
+running|standing,passing
+run-on|end-stopped
+rural area|urban area
+rural|urban
+rush along|linger
+rush|linger,delay
+rusted|rustless
+rusticity|urbanity
+rustless|rusted
+sack out|turn out,get up
+sack|hire
+sacred|profane
+sadden|gladden
+saddle|unsaddle
+saddled|unsaddled
+sadist|masochist
+sadistic|masochistic
+sadly|happily
+sadness|happiness
+safe|dangerous
+safety|danger
+sagely|foolishly
+salable|unsalable
+salaried|freelance
+saleable|unsalable
+salient|re-entrant
+salinate|desalinate
+saltwater|fresh water
+salty|fresh
+salubrity|insalubrity
+same|other,different,unlike
+sameness|difference
+sanctify|desecrate
+sanction|disapprove
+sanctitude|unholiness
+sanctity|unholiness
+sane|insane
+sanely|insanely
+saneness|insanity
+sanitary|unsanitary
+sanity|insanity
+saponified|unsaponified
+sarcastic|unsarcastic
+satiate|insatiate
+satiated|insatiate
+satisfy|dissatisfy
+saturated|unsaturated,unsaturated
+saved|lost
+savory|unsavory
+savoury|unsavory
+say farewell|welcome
+scalable|unscalable
+scale down|blow up,scale up
+scale up|scale down
+scarce|abundant
+scarceness|abundance
+scarcity|abundance
+scent|deodourise,deodorize
+scented|scentless
+scentless|scented
+scheduled|unscheduled
+scholarly|unscholarly
+scrag|fat person
+scramble|unscramble
+screw|unscrew
+scrimpy|ample
+scripted|unscripted
+seal|unseal
+sealed|unsealed
+seamed|seamless
+seamless|seamed
+seasonal|year-round
+seasoned|unseasoned
+seated|standing
+seaward|offshore
+seawater|fresh water
+seaworthy|unseaworthy
+second|first
+secondarily|primarily
+secondary|primary
+sectarian|nonsectarian
+secular|clergyman
+secure|insecure,unprotected,unfasten
+securely|insecurely
+secureness|looseness,insecureness
+security|insecurity
+sedate|stimulate
+sedimentary|igneous
+seductive|unseductive
+seeable|invisible
+seeded|unseeded
+seedless|seedy
+seedy|seedless
+seemliness|unseemliness
+segregate|desegregate
+segregated|integrated
+segregation|integration
+seldom|often
+selected|unselected
+self-centred|altruistic
+self-concern|altruism
+self-doubt|confidence
+selfish|unselfish
+selfishly|unselfishly
+selfless|egoistic
+selflessness|egoism
+send away|hire
+senior|junior
+sense organ|effector
+sensibilise|desensitize
+sensibilize|desensitize
+sensible|insensible
+sensify|desensitize
+sensitise|desensitise,desensitize,desensitize
+sensitive|insensitive,insensible
+sensitize|desensitize,desensitise,desensitize
+sent|unsent
+sentence|acquittal
+sentience|insentience
+sentient|insentient
+separably|inseparably
+separate|joint,unite
+separation|union
+septic|antiseptic
+serious|frivolous,playful
+seriousness|frivolity
+service|disservice
+serviceman|civilian
+servile|unservile
+sessile|vagile,pedunculate
+set down|embark
+set up|level,disarrange,disassemble,abolish
+settle|float
+settled|unsettled
+sexual|asexual
+sexy|unsexy
+shaded|unshaded
+shallow|deep
+shallowness|deepness,profundity
+shame|honor
+shamelessly|ashamedly
+shape up|regress
+shapely|unshapely
+shared|unshared
+sharp|dull,flat,natural
+sharpen|dull,flatten,soften,blur
+sharpness|dullness,softness
+shaved|unshaven
+shaven|unshaven
+sheared|unsheared
+sheathe|unsheathe
+sheathed|unsheathed
+shed|persistent
+shelled|unshelled
+shell-less|shelled
+shew|disprove
+shiny|unglazed
+ship|disembark
+shockable|unshockable
+shod|discalced,unshod
+shodden|unshod
+shoed|unshod
+shop at|boycott
+shop|boycott
+shorn|unsheared
+short|long,retentive,tall
+shorten|expand,lengthen
+shortness|longness,tallness
+shortsighted|farsighted
+shout|whisper
+show|hide,disprove
+showtime|middle
+shrink|expand,stretch
+shut down|open
+shut out|admit
+shut up|open up,louden
+shut|open,admit
+shuttered|unshuttered
+shutting|opening
+sick|well,keep down
+sickness|wellness
+side|bottom,straddle
+sidereal|civil
+sighted|blind
+sign in|check out
+signed|unsigned
+silence|sound,louden
+silenced|unsilenced
+similar|dissimilar,unalike,unlike
+similitude|unlikeness
+simple|complex,compound
+simpleness|difficulty,complexity
+simplicity|difficulty,complexity
+simplify|complicate
+sincere|insincere
+sincerely|insincerely
+sincerity|frivolity,insincerity
+sing|keep quiet
+single|multiple,double,common,married
+single-lane|multilane
+singly|multiply
+singular|plural
+sinistral|dextral
+sink|float,source
+sinkable|unsinkable
+sister|brother
+sisterlike|brotherly
+sisterly|brotherly
+sit down|arise,stand
+sitter|stander
+sitting trot|rising trot
+sitting|standing
+sized|unsized
+skew|align
+skilled|unskilled
+skim milk|whole milk
+skimmed milk|whole milk
+skinless|skinned
+skinned|skinless
+slave state|free state
+slave|free
+sleep in|live out
+sleep out|live in
+sleep|wake
+sleepiness|wakefulness
+sleeping|waking
+sleeved|sleeveless
+sleeveless|sleeved
+slenderize|gain
+slenderly|amply
+slenderness|thickness
+slim down|gain
+slim|gain
+slip off|slip on
+slip on|slip off
+slippery|nonslippery
+slippy|nonslippery
+sloppiness|carefulness
+slow down|accelerate,tense
+slow lane|fast lane
+slow up|accelerate
+slow|fast,quickly,accelerate
+slowly|quickly
+slug|work
+slumber|wake
+slur|focus
+small letter|uppercase
+small|big,large
+smallness|bigness,largeness
+smart bomb|dumb bomb
+smart|stupid
+smilingly|unsmilingly
+smokeless|smoky
+smoker|nonsmoker
+smoky|smokeless
+smooth|rough,roughen,staccato
+smoothbore|rifled
+smoothen|roughen
+smoothness|roughness
+snail mail|e-mail,email
+snap|inelasticity
+snarl|unsnarl,disentangle
+snuff it|be born
+snuff out|ignite
+soak|undercharge
+sober|intoxicated,playful
+soberness|drunkenness
+sobriety|drunkenness
+sociable|unsociable
+sociably|unsociably
+social|unsocial
+socialism|capitalism
+socialist|capitalistic
+socialistic|capitalistic
+soft drug|hard drug
+soft spot|good part
+soft water|hard water
+soft|hard,hardened,forte,unvoiced,loud
+softball|hardball
+soft-boiled|hardhearted
+soften|harden,sharpen,stand
+softhearted|hardhearted
+softly|forte,loudly
+softness|hardness,sharpness,distinctness,loudness,fitness
+software|hardware
+soil|clean
+soiled|clean
+solar apex|antapex
+sold|unsold
+soled|soleless
+soleless|soled
+solemnity|levity
+solid|liquid,gaseous,hollow
+solidity|hollowness,porosity
+solidness|porosity
+solubility|insolubility
+soluble|insoluble
+solvability|insolubility
+solved|unsolved
+solvency|insolvency
+solvent|insolvent
+somewhat|immoderately,unreasonably
+somnolence|wakefulness
+sonant|unvoiced
+sonic|subsonic,supersonic
+soothe|irritate
+sorely|painlessly
+sororal|brotherly
+sorrow|joy
+sorrowful|joyful
+sorry|unregretful
+so-so|intolerably,unacceptably
+sound off|cheer
+sound|silence,unsound,devoice
+soundable|unfathomable
+soundness|unsoundness
+sour|sweet,sweeten
+source|sink
+soured|unsoured
+south|north
+southern|northern
+spaced|unspaced
+spacial|nonspatial
+spareness|fatness
+sparingly|amply
+sparkling|still
+spat|boo
+spatial|nonspatial
+speaking|nonspeaking
+specialise|diversify,generalize
+specialiser|generalist
+specialist|generalist
+speciality|weak point
+specialize|diversify,generalize
+specializer|generalist
+specialness|generality
+specialty|weak point
+specific|general,nonspecific,nonspecific
+specifically|generally
+specified|unspecified
+specify|generalize
+speed up|decelerate,decelerate
+speed|decelerate,linger
+speedily|slowly
+speedup|deceleration
+spell|unspell
+spew|keep down
+spherical|nonspherical
+spineless|vertebrate,spinous
+spinous|spineless
+spiny|spineless
+spirited|spiritless
+spiritism|worldliness
+spiritless|spirited
+spiritualise|literalize
+spiritualism|worldliness
+spirituality|worldliness
+spiritualize|literalize
+splayfoot|pigeon-toed
+splayfooted|pigeon-toed
+split up|unite
+split|unite
+splitter|lumper
+spoken|written
+sponsor|boycott
+spontaneous|induced
+sporadic|continual
+spotlight|play down,background
+spread out|contract,fold
+spread|gather,fold
+springtide|neap tide
+spue|keep down
+spuriousness|genuineness
+squander|conserve
+square|round,crooked
+stabile|mobile
+stabilise|destabilize,destabilise
+stability|inconstancy,instability,unstableness,instability
+stabilize|destabilise,destabilize
+stable|unstable
+stableness|unstableness,instability
+staccato|legato
+staged|unstaged
+stagnate|work
+stained|unstained
+stale|fresh
+staleness|freshness
+stalinise|destalinize
+stalinize|destalinize
+stalked|sessile
+stalkless|pedunculate
+stand firm|surrender
+stand still|move
+stand up|sit down,lie down
+stand|yield
+standard|nonstandard
+stander|sitter
+standing|running,seated
+staple|unstaple
+starboard|larboard
+starchless|starchy
+starchy|starchless
+starless|starry
+starry|starless
+start out|end
+start up|stop
+start|middle,end,stop,finish
+starve|feed,be full
+state of war|peace
+stative|active
+stator coil|rotor
+stator|rotor
+stay put|move
+stay|change,move,depart
+steadily|unsteadily
+steadiness|unsteadiness
+steady|unsteady,unsteadily
+steep|gradual
+steepness|gradualness
+stemless|caulescent,stemmed
+stemmed|acaulescent,stemless
+step down|escalate,take office
+step up|de-escalate
+step-down|increase
+step-up|decrease
+sterile|fertile
+sterility|fertility
+steroidal|nonsteroidal
+stick around|move
+stick|dislodge,move
+stiff|impotent
+stiffen|loosen
+stifle|stimulate
+stigmatic|astigmatic
+stigmatism|astigmatism
+still|agitate,louden,moving,sparkling,no longer
+stillbirth|live birth
+stillness|motion
+stimulate|de-energise,de-energize,sedate,stifle
+stimulative|depressant
+stinginess|generosity
+stingy|ample,generous
+stinky|fragrant
+stirred|unmoved
+stomatous|astomatous
+stop|continue,begin,start
+stoppable|unstoppable
+stormy|calm
+straddle|side
+straight|curved,coiled,curly,indirectly,crooked
+straighten|bend
+straightness|curliness,crookedness
+strain|unstrain,relax
+strange|native,familiar
+strangeness|nativeness,familiarity
+strap|unstrap
+stratified|unstratified
+strength|weak point,weakness
+strengthen|weaken
+stressed|unstressed
+stretch|shrink
+strict|indulgent
+strike|miss
+string|unstring
+strip down|dress
+strip|dress
+strong point|weak point
+strong suit|weak point
+strong|weak,impotent
+strongly|weakly
+stubborn|docile
+stuck|unstuck
+studied|unstudied
+studio|location
+stuff|unstuff
+stupid|smart,intelligent
+styleless|stylish
+stylish|styleless
+suasion|dissuasion
+subartesian|artesian
+subhuman|superhuman
+subjacent|superjacent
+subject case|oblique
+subjective|transeunt,objective
+subjectively|objectively
+submerged|afloat,aground
+submissive|domineering
+subordinate|independent,dominant
+subscript|adscript,superscript,superscript
+subsequence|priority
+subsequent|antecedent
+subsonic|supersonic,sonic
+substantiate|negate
+substantive|adjective
+subsurface|overhead,surface
+subtract|add
+subtraction|addition
+subtractive|additive
+succeed|precede,fail
+succeeder|loser
+succeeding|preceding
+success|loser,failure
+succumb|survive
+suck|bottlefeed
+suckle|bottlefeed
+sudden|gradual
+suffer|enjoy,be well
+sufficiency|inadequacy
+suffix|prefix
+sugarless|sugary
+sugary|sugarless
+suitably|unsuitably
+summerise|winterize
+summerize|winterize
+summery|autumnal,wintry,vernal
+sundown|sunrise
+sunken|afloat,aground
+sunrise|sunset
+sunset|sunrise
+sunup|sunset
+superficial|profound
+superhuman|subhuman
+superior|inferior,subscript,inferior,adscript
+superiority|low quality,inferiority
+superjacent|subjacent
+supernal|infernal
+supernatural|natural
+superscript|subscript,adscript,subscript
+supersonic|sonic,subsonic
+supination|pronation
+supply|demand,recall
+support|negate
+supported|unsupported,unsupported
+suppressed|publicized
+supra|below
+surcharge|undercharge
+surd|voiced
+sure thing|uncertainty
+sure|unsure,uncertain,uncertain
+surface mail|air mail
+surface ship|submersible
+surface|subsurface,overhead
+surge|ebb
+surgical|nonsurgical,medical
+surprised|unsurprised
+surrender|resist
+survive|succumb
+suspect|plaintiff,trust
+suspected|unsuspected
+sustain|negate
+swear|mistrust,distrust
+sweet|dry,sour,salty
+sweeten|sour
+swept|unswept
+swim|sink
+switch off|switch on
+switch on|switch off
+sworn|unsworn
+syllabic|accentual,quantitative,nonsyllabic
+symmetry|anisotropy,asymmetry
+sympatric|allopatric
+sympatry|allopatry
+syncarpous|apocarpous
+syncategorem|categoreme,categorem
+synchronal|asynchronous
+synchroneity|asynchronism
+synchronic|diachronic,asynchronous
+synchronism|asynchronism
+synchronous|asynchronous
+synchrony|asynchronism
+synclinal|anticlinal
+syndetic|asyndetic
+synergist|antagonist
+synergistic|antagonistic
+synonym|antonym
+synonymous|antonymous
+syntagmatic|paradigmatic
+synthesis|analysis
+synthesise|analyze
+synthesize|analyze
+synthetic|analytic
+synthetical|analytic
+systematic|unsystematic
+table d'hote|a la carte
+taciturn|voluble
+tack|disassemble
+tackle|unharness
+tactful|tactless
+tactfully|tactlessly
+tactless|tactful
+tactlessly|tactfully
+tactlessness|tactfulness
+tagged|unlabeled
+tail|head
+taint|disinfect
+take apart|synthesize,assemble
+take away|bring
+take down|raise
+take hold|let go of
+take in|emit,let out,abstain
+take issue|agree
+take leave|stay
+take office|leave office
+take out|pack,deposit,include
+take|disclaim,abstain,refuse,obviate,give
+taken|given
+talented|untalented
+talentless|talented
+talk into|talk out of
+talk out of|talk into
+talk|keep quiet
+tall|short
+tallness|shortness
+tally|disagree
+tame|wild
+tamed|wild
+tameness|wildness
+tangible|impalpable,intangible
+tangle|unsnarl,disentangle,unknot,unravel,unravel
+tangled|untangled
+tanned|untanned
+tape|erase
+taper file|blunt file
+tapped|untapped
+tardily|early,quickly
+tardiness|punctuality
+tasteful|tasteless
+tastefully|tastelessly
+tasteless|tasteful,tasty
+tastelessly|tastefully
+tastily|tastelessly
+tasty|tasteless
+tattily|expensively
+tattle|keep quiet
+tautness|looseness
+taxable|nontaxable
+tear down|raise
+tearful|tearless
+tearless|tearful
+technical|nontechnical
+technophile|technophobe
+technophobe|technophile
+teemingness|scarcity
+temperance|intemperance
+temperate|intemperate
+tempered|untempered
+temporalty|clergy
+temporarily|permanently
+temporary|permanent
+tenacious|unretentive
+tender|tough
+tense up|relax,unstrain,relax
+tense|relaxed,lax,unstrain,relax,relax
+tenuity|thickness
+terminate|begin,begin,hire
+terrestrial|amphibious,aquatic
+terseness|verboseness
+testate|intestate
+thankful|ungrateful
+thankless|grateful
+the true|falsity
+theism|atheism
+thematic|unthematic
+theoretic|empirical
+theoretical|applied,empirical
+there|here
+thereness|hereness
+thermal|nonthermal
+thermic|nonthermal
+thick|thinly,thin
+thicken|thin
+thickly|thinly
+thickness|thinness
+thin person|fat person
+thin|thick,thicken,gain,full,thickly
+think of|forget
+think|forget
+thinkable|unthinkable
+thinly|thickly
+thinness|thickness,fatness
+thirsty|hungry
+thither|here
+thoroughbred|mixed-blood
+thoughtful|thoughtless,heedless
+thoughtless|heedful,thoughtful
+three-piece|one-piece,two-piece
+thrifty|wasteful
+throne|dethrone
+throw in|enter
+throw up|keep down
+tidiness|untidiness
+tidy|untidy
+tie in|dissociate
+tied|untied,unlaced
+tight money|easy money
+tight|leaky,loose
+tightening|loosening
+tightness|looseness
+timbered|untimbered
+time off|work time
+time to come|past
+timeliness|untimeliness
+timid|bold,brave
+timidity|boldness
+timorousness|boldness
+tipped|untipped
+tipsiness|soberness
+tire out|refresh
+tire|interest,refresh
+tired|rested
+titled|untitled
+to both ears|monaurally
+to one ear|binaurally
+toadstool|mushroom
+tobacco user|nonsmoker
+toed|toeless
+toeless|toed
+tog out|dress down
+tog up|dress down
+tolerable|intolerable
+tolerably|intolerably,unacceptably
+tolerance|intolerance
+tolerant|intolerant
+tonal|atonal
+tonality|atonality
+tone|atonicity
+toned|toneless
+toneless|toned
+tongued|tongueless
+tongueless|tongued
+tonic|atonic
+tonicity|atonicity
+tonus|atonicity
+too soon|late
+toothed|toothless
+toothless|toothed
+toothsome|unpalatable
+top out|bottom out
+top-down|bottom-up
+toper|nondrinker
+topless|topped
+topped|topless
+totally|partly
+touch on|break
+touchable|intangible
+touched|untouched,unmoved
+tough luck|good luck,good fortune
+tough|tender
+toughened|untempered,tender
+toxic|nontoxic
+traceable|untraceable
+trackable|untraceable
+tracked|trackless
+trackless|tracked
+tractable|intractable
+trade book|text edition
+tragedy|comedy
+trained|untrained
+tramontane|cismontane
+tranquilize|agitate,stimulate
+tranquillise|agitate,stimulate
+tranquillize|agitate,stimulate
+transeunt|immanent
+transgress|keep
+transient|immanent
+transmontane|cismontane
+transonic|subsonic,supersonic
+transparence|opacity
+transparency|opacity
+transport|disenchant
+traveled|untraveled
+treated|untreated,untempered
+treeless|wooded
+tree-living|nonarboreal
+trick out|dress down
+trick up|dress down
+triclinic|monoclinic
+trimmed|untrimmed
+trinuclear|mononuclear,binucleate
+trinucleate|mononuclear,binucleate
+trinucleated|mononuclear,binucleate
+triumph|defeat
+troubled|untroubled
+trueness|disloyalty,falsity
+truly|insincerely
+trust|mistrust,distrust,distrust
+trustful|distrustful
+trustfulness|distrust
+trustiness|untrustiness
+trusting|distrustful
+trustingness|distrust
+truth|inaccuracy,falsity,falsehood
+truthful|untruthful
+tubed|tubeless
+tubeless|tubed
+tucked|untucked
+tune up|untune
+tune|untune
+tuneful|tuneless
+tuneless|tuneful
+turn a loss|profit,break even
+turn away|admit
+turn down|accept,admit
+turn in|turn out,get up
+turn off|switch on
+turn on|calm,switch off
+turn out|switch on,turn in,go to bed
+turn up|unfold
+turn|unbend
+turned|unturned
+twine|untwine,untwist,unwind
+twist|unbend,untwist
+two-footed|quadruped,quadrupedal
+two-handed|right-handed,left-handed
+two-piece|three-piece,one-piece
+two-year|perennial,annual
+type|antitype
+typical|atypical
+typicality|atypicality
+typically|atypically
+uglify|beautify
+ugliness|beauty
+ugly|beautiful
+ultimate|proximate
+ultra vires|intra vires
+unable|able
+unabridged|abridged
+unabused|abused
+unaccented|tonic
+unacceptable|acceptable
+unacceptably|tolerably,acceptably
+unaccessible|accessible
+unaccustomed|accustomed
+unactable|actable
+unadaptable|adaptable
+unaddicted|addicted
+unaddressed|addressed
+unadjusted|adjusted
+unadoptable|adoptable
+unadorned|adorned
+unadvisable|advisable
+unadvised|well-advised
+unaesthetic|aesthetic
+unaffected|affected,moved
+unaffixed|affixed
+unafraid|afraid,insecure
+unaggressive|aggressive
+unagitated|agitated
+unairworthy|airworthy
+unalarming|alarming
+unalert|alert
+unalienable|alienable
+unalike|alike
+unalterable|alterable
+unaltered|altered
+unambiguity|ambiguity
+unambiguous|ambiguous,equivocal
+unambitious|ambitious
+unamended|amended
+unanalyzed|analyzed
+unangry|angry
+unanimated|animated
+unapologetic|apologetic
+unappealable|appealable
+unappealing|appealing,sympathetic
+unappendaged|appendaged
+unappetising|appetizing
+unappetizing|appetizing
+unarbitrary|arbitrary
+unarmed|armed
+unarmored|armored
+unarmoured|armored
+unarticulate|articulate
+unascribable|attributable
+unashamed|ashamed
+unashamedly|ashamedly
+unassertive|assertive
+unassigned|assigned
+unassisted|assisted
+unattached|attached
+unattractive|attractive
+unauthorised|authorized
+unauthorized|authorized
+unavailable|available
+unavenged|avenged
+unawakened|awakened
+unaware|aware,witting
+unawed|awed
+unbalance|balance
+unbalanced|balanced
+unbalconied|balconied
+unbanded|banded
+unbaptised|baptized
+unbaptized|baptized
+unbar|bar
+unbarreled|barreled
+unbarrelled|barreled
+unbearable|tolerable
+unbecomingly|decorously
+unbelief|belief
+unbelievable|credible
+unbelievably|believably,believably,credibly
+unbelt|belt
+unbelted|belted
+unbend|tense,bend
+unbeneficed|beneficed
+unbind|bind
+unblemished|blemished
+unblended|blended
+unblock|freeze,block
+unbodied|bodied
+unbolt|bolt
+unbordered|bordered
+unborn|born
+unbound|bound
+unbraid|braid
+unbranded|branded
+unbreakable|breakable
+unbridgeable|bridgeable
+unbridle|bridle
+unbroken|broken,plowed
+unbuckle|buckle
+unburden|burden
+unburdened|burdened
+unburied|buried
+unburned|burned
+unbutton|button
+unbuttoned|buttoned
+uncared-for|cared-for
+uncarpeted|carpeted
+uncarved|carved
+uncase|dress
+uncastrated|castrated
+uncaulked|caulked
+uncensored|censored
+uncertain|certain,sealed,sure,certain
+uncertainly|steadily
+uncertainty|certainty
+uncertified|certified
+unchain|chain
+unchangeable|changeable
+unchanged|changed,altered
+uncharged|charged
+uncharitable|charitable
+unchartered|chartered
+unchaste|chaste
+uncheerful|cheerful
+unchristian|christian
+unchurch|communicate
+uncivil|civil
+uncivilly|civilly
+unclasp|clasp
+unclassified|classified
+uncle|aunt
+unclean|clean
+uncleanness|cleanness
+unclear|clear
+uncleared|cleared
+unclearness|clearness
+unclimbable|scalable
+unclip|clip
+unclog|clog
+unclothe|dress
+unclothed|clothed
+unclutter|clutter
+uncoated|coated
+uncoil|coil
+uncoiled|coiled
+uncollected|gathered,collected
+uncolored|colored
+uncoloured|colored
+uncolumned|columned
+uncombed|combed
+uncombined|combined
+uncommitted|committed,attached
+uncommon|common
+uncommonness|commonness
+uncomparable|comparable
+uncomparably|comparably
+uncomplete|complete
+uncompress|compress
+unconcealed|concealed
+unconcern|concern
+unconcerned|concerned
+unconfident|confident
+unconfined|confined
+unconfirmed|confirmed
+unconformist|conformist
+uncongenial|congenial
+unconnected|connected
+unconscious|conscious
+unconsolable|consolable
+uncontested|contested
+uncontrived|studied
+uncontrolled|controlled
+unconvinced|convinced
+unconvincing|convincing
+uncork|cork
+uncorrected|corrected
+uncouple|couple
+uncousinly|cousinly
+uncover|cover
+uncrannied|crannied
+uncrate|crate
+uncreative|creative
+uncritical|critical
+uncritically|critically
+uncross|cross
+uncrossed|crossed
+uncrowded|crowded
+uncrowned|crowned
+uncultivated|cultivated
+uncurtained|curtained
+uncut|mown,trimmed
+undamaged|damaged
+undatable|datable
+undeceive|deceive
+undeciphered|deciphered
+undeclared|declared
+undecorated|adorned
+undedicated|dedicated
+undefeated|defeated
+undefined|defined
+undelineated|delineated
+undemanding|demanding
+undemocratic|democratic
+undeniable|deniable
+undependable|dependable,reliable
+undependably|reliably,dependably,faithfully
+underact|overact
+underage|major
+underarm|overhand
+underbid|outbid,overbid
+undercharge|overcharge
+underdress|dress up
+underexpose|overexpose
+undergarment|overgarment
+underhand|overhand
+underhanded|overhand
+underived|derived
+underpay|overpay
+underplay|overact
+undershoot|overshoot
+underspend|overspend
+understate|overstate
+understock|overstock
+undervalue|appreciate,overestimate,overvalue
+undeservedly|deservedly
+undesigned|designed
+undesirable|desirable
+undesiring|desirous
+undesirous|desirous
+undetected|detected
+undetermined|determinate,determined
+undeveloped|developed,exploited
+undignified|dignified
+undiluted|diluted
+undimmed|dimmed
+undiplomatic|diplomatic
+undiscerning|discerning
+undiscipline|discipline
+undo|make,wrap
+undock|dock
+undocumented|documented
+undomestic|domestic
+undrained|drained
+undramatic|dramatic
+undress|dress
+undrinkable|drinkable
+undue|due
+undynamic|dynamic
+uneager|eager
+unearned run|earned run
+unearned|earned
+uneasy|easy
+uneatable|edible
+unedifying|edifying
+uneducated|educated
+uneffective|effective
+unemotional|emotional
+unemployable|employable
+unemployed|employed
+unemployment|employment
+unenclosed|enclosed
+unencumbered|encumbered
+unendowed|endowed
+unendurable|tolerable
+unenforced|enforced
+unenlivened|enlivened
+unequal|equal,like
+unequally|equally,evenly
+unequipped|equipped
+unequivocal|equivocal
+unerect|erect
+unergetic|energetic
+unessential|essential
+unethical|ethical
+unethically|ethically
+uneven|even
+unevenly|evenly,equally,evenly
+unevenness|evenness,evenness
+uneventful|eventful
+unexcitable|excitable
+unexcited|excited
+unexciting|exciting,stimulating
+unexcitingly|excitingly
+unexhausted|exhausted
+unexpansive|expansive
+unexpected|expected
+unexpendable|expendable
+unexpired|expired
+unexploited|exploited
+unexportable|exportable
+unextended|extended
+unfaceted|faceted
+unfair|impartial,fair
+unfairly|fairly
+unfairness|equity,fairness,fairness
+unfaithful|faithful
+unfaithfully|reliably,dependably,faithfully
+unfamiliar|familiar
+unfasten|fasten
+unfastened|shut,fastened,buttoned,tied
+unfastidious|fastidious
+unfathomable|fathomable
+unfavorable|favorable
+unfavorably|favorably
+unfavourable|favorable
+unfavourably|favorably
+unfeathered|feathered
+unfeelingly|feelingly
+unfeignedly|insincerely
+unfertile|fertile
+unfilled|filled
+unfinished|finished
+unfit|qualify
+unfitness|ability,fitness
+unfixed|fixed
+unflattering|flattering
+unfledged|fledged
+unfocused|focused
+unfocussed|focused
+unfold|fold
+unforceful|forceful
+unforgivably|forgivably,pardonably,excusably
+unforgiving|forgiving
+unformed|formed
+unfortunate|fortunate,auspicious
+unframed|framed
+unfree|free
+unfreeze|freeze,block
+unfretted|fretted
+unfriendly|friendly
+unfrozen|frozen
+unfruitful|fruitful
+unfueled|fueled
+unfunded|funded
+unfurl|roll up
+unfurnished|furnished
+unfurrowed|furrowed
+ungathered|gathered,collected
+ungeared|geared
+ungenerous|generous
+unglazed|glazed
+ungodliness|godliness
+ungracefully|gracefully,graciously
+ungracious|gracious
+ungraciously|gracefully,graciously
+ungrateful|grateful
+ungratefully|gratefully
+ungreased|lubricated
+ungregarious|gregarious
+ungroomed|groomed
+ungrudgingly|grudgingly
+unguiculate|ungulate
+unguiculated|ungulate
+unguided|guided
+ungulate|unguiculate
+ungulated|unguiculate
+ungusseted|gusseted
+unhallow|consecrate
+unhallowed|holy
+unhappily|happily
+unhappiness|happiness
+unhappy|euphoric,happy
+unhardened|tempered
+unharmonious|harmonious
+unharness|harness
+unheaded|headed
+unhealthful|healthful,sanitary
+unhealthy|healthy
+unhearable|audible
+unheeding|heedful
+unhelpful|helpful
+unhelpfully|helpfully
+unhitch|hitch
+unholiness|holiness
+unholy|holy
+unhook|hook
+unhumorous|humorous
+unhurried|hurried
+unhurriedly|hurriedly
+unicameral|bicameral
+unification|separation,disunion
+uniform|multiform
+unify|disunify,divide
+unilateral|multilateral
+unilaterally|bilaterally
+unimodal|bimodal
+unimpaired|impaired
+unimportance|importance
+unimportant|important,significant
+unimpressive|impressive
+unimproved|improved
+uninflected|synthetic,inflected
+uninformed|informed
+uninhabited|inhabited
+uninhibited|inhibited
+uninitiate|initiate
+uninjectable|injectable
+uninjured|injured
+uninquiring|inquiring
+uninspiring|inspiring
+uninsured|insured
+unintegrated|integrated
+unintended|intended
+uninterested|interested
+unintrusive|intrusive
+uninviting|inviting
+uninvolved|involved
+union|nonunion,separation,disunion
+unionised|ionized
+unionized|ionized
+uniparous|multiparous
+unipolar|bipolar
+unironed|ironed
+unitary|federal
+unite|divide,disunify
+united|divided
+uniting|disunion
+univalent|bivalent,multivalent,polyvalent
+univalve|bivalve
+universal|particular
+univocal|equivocal
+unjust|just,equitable,fair
+unjustly|justly
+unjustness|justice
+unkept|unbroken
+unkeyed|tonal
+unkind|kind
+unkindly|kindly
+unkindness|kindness
+unknot|knot,ravel
+unknowable|knowable
+unknowingly|advertently,wittingly,knowingly
+unknown|known
+unlabeled|labeled
+unlabelled|labeled
+unlace|tie
+unlaced|laced
+unlamented|lamented
+unlash|lash
+unlaureled|laureled
+unlaurelled|laureled
+unlawful|lawful
+unlawfully|lawfully
+unlawfulness|lawfulness
+unlax|strain,tense
+unleaded|leaded
+unlearned|conditioned
+unleavened|leavened
+unlighted|lighted
+unlikable|sympathetic
+unlike|like
+unlikeable|sympathetic
+unlikelihood|likeliness,likelihood
+unlikeliness|likeliness,likelihood
+unlikely|likely,probable
+unlikeness|similitude,likeness
+unlimited|limited
+unlined|lined
+unlipped|lipped
+unlisted|listed
+unlit|lighted
+unlivable|livable
+unliveable|livable
+unliveried|liveried
+unloaded|loaded
+unloading|loading
+unlock|lock,lock
+unlogical|logical
+unloose|confine
+unloosen|confine
+unloved|loved
+unloving|loving
+unlubricated|lubricated
+unluckily|luckily,fortunately
+unlucky|lucky
+unmade|made
+unmake|make
+unmalicious|malicious
+unmalted|malted
+unmanageable|manageable,wieldy
+unmanageably|manageably
+unmanful|manly
+unmanfully|manfully
+unmanlike|manly
+unmanly|manly,manfully
+unmanned|manned
+unmarked|marked
+unmarried|married
+unmask|mask
+unmated|mated
+unmeasurable|measurable
+unmeasured|measured
+unmelodic|melodious
+unmelodious|tuneful,melodious
+unmelted|melted
+unmemorably|memorably
+unmerciful|merciful
+unmerited|merited
+unmilitary|military
+unmindful|mindful
+unmindfully|mindfully
+unmined|mined
+unmitigated|mitigated
+unmixable|miscible
+unmodifiable|modifiable
+unmodified|modified
+unmodulated|modulated
+unmoral|moral,immoral
+unmotivated|motivated
+unmotorised|motorized
+unmotorized|motorized
+unmourned|lamented
+unmoved|moved
+unmoving|moving
+unmown|mown
+unmusical|musical,musical,melodious
+unmusically|musically
+unmuzzle|muzzle
+unmyelinated|myelinated
+unnatural|unaffected,natural
+unnaturally|naturally
+unnecessary|necessary
+unneeded|necessary
+unneurotic|neurotic
+unnoticeable|noticeable,obtrusive
+unnoticeably|perceptibly
+unnoticed|noticed
+unobligated|obligated
+unobstructed|obstructed
+unobtrusive|obtrusive
+unobvious|obvious
+unoccupied|occupied
+unoffending|offensive,offending
+unofficial|official
+unofficially|officially
+unoiled|oiled
+unopen|open
+unopposable|opposable
+unopposed|opposed
+unordered|ordered
+unorganised|organized
+unorganized|organized
+unoriented|oriented
+unoriginal|original
+unorthodox|orthodox
+unorthodoxy|orthodoxy
+unowned|owned
+unpack|pack
+unpackaged|packaged
+unpaid|paid
+unpaintable|paintable
+unpainted|painted
+unpalatable|palatable
+unpalatably|palatably
+unpardonable|pardonable
+unpardonably|forgivably,pardonably,excusably
+unparented|parented
+unpassable|passable
+unpatriotic|patriotic
+unpatronised|patronized
+unpatronized|patronized
+unpatterned|patterned
+unpaved|paved
+unpeaceful|peaceful
+unperceiving|perceptive
+unperceptive|perceptive
+unpermissive|permissive
+unperplexed|perplexed
+unpick|knot,ravel
+unplanned|planned
+unplanted|planted
+unplayable|playable
+unplayful|playful
+unpleasant|pleasant
+unpleasantly|pleasantly
+unploughed|plowed
+unplowed|plowed
+unplug|plug in
+unpointed|pointed
+unpolished|polished
+unpopular|popular
+unpopularity|popularity
+unportable|portable
+unposed|posed
+unpotted|potted
+unpowered|powered
+unprejudiced|prejudiced
+unprepared|prepared
+unpretending|ostentatious
+unpriestly|priestly
+unprincipled|principled
+unprintable|printable
+unprocessed|processed,refined
+unproductive|productive
+unprofitable|profitable
+unprofitably|profitably,fruitfully,productively
+unprophetic|prophetic
+unpropitious|propitious
+unprotected|protected
+unprotective|protective
+unproved|proved
+unproven|proved
+unprovoking|provocative
+unpublished|published
+unpunctual|punctual
+unpunished|punished
+unqualified|qualified
+unquiet|quiet
+unquietly|quietly
+unquotable|quotable,repeatable
+unraised|leavened
+unravel|ravel,knot,ravel
+unreactive|reactive
+unreadably|legibly
+unready|ready
+unreal|natural,real,substantial
+unrealistic|realistic
+unreality|reality
+unreasonable|reasonable
+unreasonably|moderately,reasonably,reasonably
+unreassuring|reassuring
+unreceptive|receptive
+unreconciled|reconciled
+unrecorded|recorded
+unrefined|refined
+unreflected|reflected
+unregenerate|docile,regenerate
+unregistered|registered
+unregretful|regretful
+unregretting|regretful
+unregularity|regularity
+unregulated|regulated
+unrelated|related
+unreliable|dependable,reliable
+unreliably|reliably,dependably,faithfully
+unremarkably|remarkably
+unremorseful|repentant,penitent
+unrenewable|renewable
+unrenewed|revived
+unrentable|rentable
+unrepeatable|quotable,repeatable
+unrepentant|repentant,penitent
+unreportable|reportable
+unreported|reported
+unrequested|requested
+unresentful|resentful
+unreserved|reserved
+unresolved|solved
+unresponsive|responsive
+unrestrained|restrained
+unrestraint|restraint
+unrestricted|restricted
+unretentive|retentive
+unrevived|revived
+unrewarding|rewarding
+unrhetorical|rhetorical
+unrhymed|rhymed
+unrhythmic|rhythmical
+unrhythmical|rhythmical
+unrifled|rifled
+unrigged|rigged
+unrighteous|righteous
+unrimed|rhymed
+unripe|ripe
+unripened|ripe
+unroll|roll up,wind
+unsaddle|saddle
+unsaddled|saddled
+unsafe|safe,secure
+unsalable|salable
+unsaleable|salable
+unsanitary|sanitary
+unsaponified|saponified
+unsarcastic|sarcastic
+unsatiable|satiate
+unsaturated|saturated
+unsavory|savory
+unsavoury|savory
+unscalable|scalable
+unscheduled|scheduled
+unscholarly|scholarly
+unscientific|scientific
+unscramble|scramble,knot,ravel
+unscrew|screw
+unscripted|scripted
+unscrupulous|scrupulous
+unseal|seal
+unsealed|sealed
+unseamanlike|seamanlike
+unseasonable|seasonable
+unseasonably|seasonably
+unseasoned|seasoned
+unseaworthy|seaworthy
+unsectarian|sectarian
+unseductive|seductive
+unseeable|visible
+unseeded|seeded
+unseemliness|seemliness
+unselected|selected
+unselfish|selfish
+unselfishly|selfishly
+unsent|sent
+unservile|servile
+unsettled|settled
+unsexed|uncastrated
+unsexy|sexy
+unshaded|shaded
+unshapely|shapely
+unshared|shared
+unshaved|shaven
+unshaven|shaven
+unsheared|sheared
+unsheathe|sheathe
+unsheathed|sheathed
+unshelled|shelled
+unshockable|shockable
+unshod|calced,shod
+unshoed|shod
+unshorn|sheared
+unshrinkable|shrinkable
+unshuttered|shuttered
+unsighted|sighted
+unsigned|signed
+unsilenced|silenced
+unsimilarity|similarity
+unsinkable|sinkable
+unsized|sized
+unskilled|skilled
+unsmilingly|smilingly
+unsmooth|smooth
+unsnarl|snarl,entangle
+unsociable|sociable
+unsociably|sociably
+unsocial|social
+unsold|sold
+unsolved|solved
+unsound|sound
+unsoundness|soundness,soundness
+unsoured|soured
+unspaced|spaced
+unspecified|specified
+unspell|spell
+unsportingly|sportingly
+unstable|stable
+unstableness|stableness,stability
+unstaged|staged
+unstained|stained
+unstaple|staple
+unsteadily|steadily
+unsteadiness|steadiness
+unsteady|steady
+unstoppable|stoppable
+unstrain|strain,tense
+unstrap|strap
+unstratified|stratified
+unstressed|stressed
+unstring|string
+unstructured|structured
+unstuck|stuck
+unstudied|studied
+unstuff|stuff
+unstylish|stylish,fashionable
+unsubdivided|compound
+unsubmissive|servile
+unsuccessful|successful
+unsuitably|suitably
+unsupervised|supervised
+unsupported|supported,supported
+unsupportive|supportive
+unsure|sure,certain
+unsurprised|surprised
+unsurprising|surprising
+unsuspected|suspected
+unswept|swept
+unsworn|sworn
+unsyllabic|syllabic
+unsystematic|systematic
+untactful|tactful
+untagged|labeled
+untalented|talented
+untamed|tame
+untangle|knot,ravel
+untangled|tangled
+untanned|tanned
+untapped|tapped
+untechnical|technical
+untempered|tempered
+unthankful|grateful
+untheatrical|theatrical
+unthematic|thematic
+unthinkable|thinkable
+untidiness|tidiness
+untidy|tidy
+untie|tie
+untied|tied,laced
+untimbered|timbered
+untimeliness|timeliness
+untipped|tipped
+untitled|titled
+untouched|touched,moved
+untoughened|tough
+untraceable|traceable
+untrained|trained
+untraveled|traveled
+untravelled|traveled
+untreated|treated
+untrimmed|trimmed
+untroubled|troubled,insecure
+untrustiness|trustiness
+untrusty|trustworthy
+untruth|truth
+untruthful|truthful
+untruthfully|truthfully
+untucked|tucked
+untune|tune
+untuneful|tuneful
+unturned|turned
+untwine|twine
+untwist|twist
+untypical|typical
+untypicality|typicality
+untypically|typically
+ununderstood|understood
+unusefulness|usefulness,utility
+unusual|usual,familiar
+unusually|unremarkably
+unusualness|usualness
+unvaried|varied
+unvariedness|variedness
+unvarying|multiform,varied
+unveil|veil
+unveiled|veiled
+unventilated|ventilated
+unvoiced|voiced
+unvoluntary|voluntary
+unwanted|wanted
+unwarily|warily
+unwariness|wariness
+unwary|wary
+unwaxed|waxed
+unweaned|weaned
+unwearable|wearable
+unweave|weave
+unwebbed|webbed
+unwelcome|welcome
+unwellness|wellness
+unwholesome|wholesome
+unwieldy|wieldy
+unwilling|willing
+unwillingly|willingly
+unwind|tense,strain,tense,wind
+unwire|wire
+unwisely|wisely
+unwiseness|wisdom
+unwitting|witting
+unwittingly|advertently,wittingly,knowingly
+unwomanly|womanly
+unwooded|wooded
+unworldly|worldly
+unworthiness|worthiness
+unworthy|worthy
+unwoven|woven
+unwrap|wrap
+unwrapped|wrapped
+unwrinkled|furrowed,wrinkled
+unwritten|written
+unyoke|yoke
+unzip|zip up
+upbeat|ill-being
+upchuck|keep down
+upgrade|descent,demote,downgrade
+uphold|discontinue
+upland|lowland
+uplift|depress
+upload|download
+upmarket|downmarket
+upper limit|minimum
+uppercase|lowercase
+upper-class|lower-class,middle-class
+upright|unerect
+uprise|sit down,lie down,turn in,go to bed,set,fall
+upriver|downstream,downriver
+upstage|downstage
+upstair|downstairs
+upstairs|downstairs
+upstream|downstream,downstream,downriver
+uptick|downtick
+uptime|downtime
+uptown|downtown
+upward|downwardly,downward,downwards,down
+upwardly|downwardly,downward,downwards,down
+upwards|downwardly,downward,downwards,down
+upwind|downwind,downwind,windward
+urban area|rural area
+urban|rural
+urbanity|rusticity
+used|misused
+useful|useless
+usefully|uselessly
+usefulness|uselessness,inutility
+useless|useful
+uselessly|usefully
+uselessness|usefulness,utility
+usual|unusual
+usually|remarkably
+usualness|unusualness
+utile|useless
+utility|uselessness,inutility
+utopia|dystopia
+utopian|dystopian
+uxorial|husbandly
+vagile|sessile
+vague|defined
+valid|invalid
+validate|invalidate
+valuable|worthless
+value|disesteem,disrespect
+vanish|appear
+variability|evenness
+variable|invariable
+varied|unvaried
+varietal|generic wine,generic
+vary|conform
+vascular|avascular
+veer|back
+vegetable|mineral,animal
+vegetation|fauna
+veil|unveil
+veiled|unveiled
+venally|honestly
+venial sin|mortal sin
+ventral|abaxial,dorsal
+veracity|mendacity
+verbal|numerical
+verboseness|terseness
+verbosity|terseness
+verity|falsity
+vernal|summery,autumnal,wintry
+verso|recto,obverse
+vertebrate|invertebrate
+vertical|unerect,inclined,horizontal
+very loudly|pianissimo
+very softly|fortissimo
+vest|divest
+veto|allow,permit
+victor|loser
+victory|defeat
+violable|inviolable
+violate|conform to,keep
+violent|nonviolent
+virile|impotent
+virtue|demerit
+virtuous|wicked
+virtuously|immorally
+virulent|avirulent
+visible|invisible
+visibly|invisibly
+vitalise|devitalize
+vitalize|devitalize
+vitiate|validate
+viviparous|oviparous
+vocalic|consonantal
+vocalise|devoice
+vocalize|devoice
+voice|devoice
+voiced|unvoiced
+voiceless|voiced
+void|validate
+volatile|nonvolatile
+volitionally|unwillingly
+voluble|taciturn
+volume|softness
+voluntary|involuntary,draftee
+volunteer|draftee
+vomit up|keep down
+vomit|keep down
+voteless|enfranchised
+vowel sound|consonant
+vowel|consonant
+vulnerable|invulnerable
+waive|claim
+wake up|fall asleep
+wake|sleep,fall asleep
+wakefulness|sleepiness
+waken|fall asleep
+waking|sleeping
+walk|ride
+walk-on|speaking
+walleyed|cross-eyed
+waning|waxing
+wanted|unwanted
+war hawk|dove
+warily|unwarily
+wariness|unwariness
+warm|cool
+warm-blooded|cold-blooded
+warmhearted|coldhearted
+wary|unwary
+washable|nonwashable
+waste|conserve
+wasteful|thrifty
+waxed|unwaxed
+waxing|waning
+weak part|good part
+weak point|strong point
+weak spot|good part
+weak|strong
+weaken|strengthen,escalate
+weakly|strongly
+weakness|strength
+wealth|poverty
+wealthiness|poverty
+weaned|unweaned
+wear down|refresh
+wear out|refresh
+wear upon|refresh
+wear|refresh
+wearable|unwearable
+weary|refresh
+weave|unweave
+webbed|unwebbed
+wedge|dislodge
+weedless|weedy
+weedy|weedless
+weep|laugh
+weigh down|lighten
+weigh on|lighten
+weight down|unburden
+weight|unburden
+weightiness|lightness
+weightless|weighty
+weighty|weightless
+welcome|unwelcome
+welfare|ill-being
+well|ill,badly,badly
+well-advised|ill-advised
+wellbeing|ill-being
+well-being|ill-being
+well-defined|ill-defined
+wellness|illness,unwellness
+west|east
+westerly|easterly
+western|eastern
+westernise|orientalise,orientalize
+westernize|orientalise,orientalize
+wet fly|dry fly
+wetness|dryness
+wet-nurse|bottlefeed
+wheeled|wheelless
+wheelless|wheeled
+whisper|shout
+white|black,blacken
+white-collar|blue-collar
+whiten|blacken
+whiteness|black
+whole milk|skim milk
+whole|fractional,half,partly
+wholesale|retail
+wholesome|unwholesome
+wholly|partly
+wicked|virtuous
+wide|narrow
+widen|narrow,take in
+wideness|narrowness
+widening|narrowing
+wieldy|unwieldy
+wife|husband
+wifelike|husbandly
+wifely|husbandly
+wigged|wigless
+wigless|wigged
+wild|tame
+wildness|tameness
+will|disinherit
+willing|unwilling
+willingly|unwillingly
+wind off|wind
+wind|unwind
+windward|leeward,upwind,leeward
+winged|wingless
+wingless|winged
+winner|loser
+winnings|losings
+winterise|summerize
+winterize|summerize
+wintery|vernal,summery,autumnal
+wintry|autumnal,vernal,summery
+wire|unwire
+wired|wireless
+wireless|wired
+wisdom|folly,unsoundness
+wise|foolish
+wisely|foolishly
+wiseness|unsoundness,folly
+wish well|begrudge
+wish|begrudge
+wishful|undesirous
+with modesty|immodestly
+withdraw|engage,deposit
+withholder|granter
+within|outside
+withstand|surrender
+witting|unwitting
+wittingly|unknowingly,unwittingly
+woman|man
+womanly|unwomanly
+wooded|unwooded
+woodenly|gracefully,graciously
+woody|nonwoody
+work day|rest day
+work time|time off
+work|malfunction,idle
+workday|rest day
+worker|nonworker
+working day|rest day
+worldliness|naivete
+worldly|unworldly
+worrisome|reassuring
+worry|reassure
+worse|better
+worsen|better
+worsened|better
+worsening|bettering
+worst|best
+worthiness|unworthiness
+worthless|valuable
+worthy|unworthy
+woven|unwoven
+wrap up|unfurl,unwrap
+wrap|unwind,unwrap
+wrapped|unwrapped
+wrinkled|ironed,unwrinkled
+wrinkleless|wrinkled
+written|spoken,unwritten,unscripted
+wrong|rightfulness,right,right,correct,correctly
+wrongfulness|rightfulness,right
+wrongly|right,correctly
+wrongness|rightness,rightness,correctness
+xenogeneic|allogeneic
+xeric|hydric,mesic
+xerotes|wetness
+yang|yin
+year-around|seasonal
+year-round|seasonal
+yesteryear|future
+yield|stand,survive
+yoke|unyoke
+yore|future
+young|aged
+youngness|oldness
+youth|aged
+zealot|nonpartisan
+zenith|nadir
+zip up|unzip
+zipper|unzip
+zonal|azonal
+zoology|flora
+zygodactyl|heterodactyl
